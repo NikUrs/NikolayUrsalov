@@ -46,7 +46,7 @@
 - validation error message for each field<br>
 - follow a direct link without using invite code before<br>
 - if a network is disconnected while the registration form is being sent<br>
-- registration in incognito mode of a browser<br><br>
+- registration in incognito mode of a browser<br>
 
 3. “Success” page<br>
 - opening the page using direct link<br>
