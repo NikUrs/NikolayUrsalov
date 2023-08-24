@@ -1,7 +1,8 @@
 <h3>Functional testing</h3>
 
 - Features<br>
-- [Chatbot commands testing](#Chatbot commands testign)
+- [Chatbot commands testing](#Chatbot commands testing)
+- [Configuration](#Configuration)
 
 <h3>Features</h3>
 
