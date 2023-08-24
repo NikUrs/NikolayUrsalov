@@ -48,6 +48,18 @@
 - if a network is disconnected while the registration form is being sent<br>
 - registration in incognito mode of a browser<br><br>
 
+3. “Success” page<br>
+- opening the page using direct link<br>
+- check if email with the link was sent<br>
+- follow the link<br>
+- compare links (from email address and on the “Success” page)<br>
+
+4. “Certificate” page<br>
+- generate the certificate <br>
+- check a generated certificate’s name<br>
+- check the format of generated certificate<br>
+- using of invalid values<br>
+
 
 Test-cases<br>
 - <a href="https://docs.google.com/spreadsheets/d/1k1Ho59dMCFbFvGevWtq7IEgSbBQ7ae9TdQ2aKOYOh6w/edit?usp=drive_link">Entering valid data in the "Email" field</a><br>
