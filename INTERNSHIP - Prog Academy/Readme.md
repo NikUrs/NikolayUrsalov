@@ -41,18 +41,18 @@ Managers can generate a certificate of any course for one student or for one gro
 Successfully message: "Command execution finished successfully!"<br><br>
 
 <h3>Testing types</h3>
-<h4><strong>Functional</strong> testing<a href="https://github.com/NikUrs/NikolayUrsalov/blob/main/INTERNSHIP%20-%20Prog%20Academy/Functional/Readme.md">click to the link</a></h4> 
+<h4><strong>Functional</strong> testing <a href="https://github.com/NikUrs/NikolayUrsalov/blob/main/INTERNSHIP%20-%20Prog%20Academy/Functional/Readme.md">click to the link</a></h4> 
 - <strong>Features</strong> (including Mobile site version)<br>
 - <strong>API</strong> testing<br>
 - <strong>Chatbot commands testing</strong><br>
-<h4><strong>GUI</strong> (including Mobile site version)<a href="https://github.com/NikUrs/NikolayUrsalov/blob/main/INTERNSHIP%20-%20Prog%20Academy/GUI/Check%20list%20%2B%20Bug%20reports.md">click to the link</a></h4>
+<h4><strong>GUI</strong> (including Mobile site version) <a href="https://github.com/NikUrs/NikolayUrsalov/blob/main/INTERNSHIP%20-%20Prog%20Academy/GUI/Check%20list%20%2B%20Bug%20reports.md">click to the link</a></h4>
 <h4><strong>Cross Browser</strong> testing</h4>
 1. Opera 100.0.4815.21<br>
 2. Google Chrome 114.0.5735.133<br>
 3. Mozilla Firefox 116.0.2<br>
 4. Safari 16.5.2<br><br>
 
--- <strong>Security</strong> testing
+<strong>Security</strong> testing
 1. Block user’s ip on 1 hour (improvement).<br>
 2. Cookies don’t store invite code.<br><br>
 
