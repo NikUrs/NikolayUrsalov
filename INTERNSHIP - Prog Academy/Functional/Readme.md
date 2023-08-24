@@ -1,10 +1,10 @@
 <h3>Functional testing</h3>
 
-- Features<br>
+- [Features](#Features)
+- [API testing](#API)
 - [Chatbot command testing](#Chatbot)
-- [Configuration](#Configuration)
 
-<h3>Features</h3>
+<a name="Features"></a><h3>Features</h3>
 
 <h4>Check list</h4>
 
@@ -70,7 +70,7 @@
 - <a href="https://docs.google.com/spreadsheets/d/1N_7oR7md5W4-cm_o_eM-f7l1znAkgDw-XhvdIkCfEE0/edit#gid=0">The valid data is shown in the "Email" field with the validation error message.</a> 
 
 
-<h3>API testing</h3>
+<a name="API"></a><h3>API testing</h3>
 <h4>Check list</h4>
 
 1. “Invite” page<br>
