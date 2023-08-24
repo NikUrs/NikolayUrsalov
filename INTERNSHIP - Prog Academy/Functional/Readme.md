@@ -146,9 +146,9 @@ Bug-reports<br>
 	- check the existing list of users<br>
 	- checking the created group during one "session"<br><br>
 
-Test-cases<br>
-- <a href="https://docs.google.com/spreadsheets/d/18hdKZYyNR6_YuQIqBOobO_dhKbYjztsd/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Checking of using the "set_phone" command.</a><br><br>
+<h4>Test-cases</h4>
+- <a href="https://docs.google.com/spreadsheets/d/18hdKZYyNR6_YuQIqBOobO_dhKbYjztsd/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Checking of using the "set_phone" command.</a><br>
 
-Bug-reports<br>
+<h4>Bug-reports</h4>
 - <a href="https://docs.google.com/spreadsheets/d/1bXGWtN_nC8rS-nqif5d7xvoF2fzvuHbQT6AbdUL1oWo/edit?usp=drive_link">The validation error message isn’t shown after sending an invalid data when using the /certificate command.</a>
 - <a href="https://docs.google.com/spreadsheets/d/1-PsMUQ-eoBH3yQ_-2lPkC6U99ULIt5nGg-VgJOunlzc/edit?usp=drive_link">The error message is shown after sending a phone number without “plus” character.</a>
