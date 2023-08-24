@@ -6,6 +6,49 @@
 
 <h3>Features</h3>
 
+<h4>Check list</h4>
+
+1. "Invite" page<br>
+- sending a valid invite code<br>
+- sending an invalid invite code<br>
+	- sending empty field<br>
+	- sending a valid invite code in CamelCase<br>
+	- invite code with a space<br>
+	- inappropriate data types<br>
+	- replace an uppercase letter with a lowercase letter and vice versa<br>
+	- use an expired invite code<br>
+- validation error message<br>
+
+2. “Registration” page<br>
+- sending the registration form with valid values<br>
+- sending the registration form with one empty required field<br>
+- using the combination of valid and invalid values for registration form's fields<br>
+- using invalid values for each field<br>
+	- empty field<br>
+	- inappropriate data types for each field<br>
+	- the first letter is lowercase for “Name” fields<br>
+	- the first letter is lowercase for the “Surname” fields<br>
+	- using a space inside fields’ values<br>
+	- amount of digits in phone number less than 8 and more than 16<br>
+	- special characters inside a phone number (for exampe: -().)<br>
+	- email address without @ character<br>
+	- email address without dot<br>
+	- email address without domain name<br>
+	- email address without username<br>
+	- email address with special characters (except -_)<br>
+	- email address with numbers in domain name<br>
+- checked reCaptcha<br>
+- unchecked reCaptcha<br>
+- using one unique invite code more than 5 times<br>
+- opening the page using direct link<br>
+- phone number reuse during one iteration of using one invitation code<br>
+- email address reuse during one iteration of using one invitation code<br>
+- validation error message for each field<br>
+- follow a direct link without using invite code before<br>
+- if a network is disconnected while the registration form is being sent<br>
+- registration in incognito mode of a browser<br><br>
+
+
 Test-cases<br>
 - <a href="https://docs.google.com/spreadsheets/d/1k1Ho59dMCFbFvGevWtq7IEgSbBQ7ae9TdQ2aKOYOh6w/edit?usp=drive_link">Entering valid data in the "Email" field</a><br>
 - <a href="https://docs.google.com/spreadsheets/d/1hnf9GQcA1bh_rulY5DjwS9RoPrIlOp5Z/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Entering the invalid data in the "Email" field</a><br><br>
