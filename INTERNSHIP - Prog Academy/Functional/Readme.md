@@ -70,7 +70,7 @@
 - <a href="https://docs.google.com/spreadsheets/d/1N_7oR7md5W4-cm_o_eM-f7l1znAkgDw-XhvdIkCfEE0/edit#gid=0">The valid data is shown in the "Email" field with the validation error message.</a> 
 
 
-<h4>API testing</h4>
+<h3>API testing</h3>
 
 1. “Invite” page<br>
 - sending a valid invite code<br>
