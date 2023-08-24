@@ -14,7 +14,7 @@ Bug-reports<br>
 - <a href="https://docs.google.com/spreadsheets/d/1tNagMIF4eYjgD_BL5_GjFs7X_ddDJYSbpO9NZRbFwHs/edit?usp=drive_link">The invalid symbols characters are shown after typing in the "Name" field without any validation error message.</a>
 - <a href="https://docs.google.com/spreadsheets/d/1N_7oR7md5W4-cm_o_eM-f7l1znAkgDw-XhvdIkCfEE0/edit#gid=0">The valid data is shown in the "Email" field with the validation error message.</a> 
 
-<a name="#Chatbot"><h3>Chatbot commands testing</h3></a>
+<a name="Chatbot"></a><h3>Chatbot commands testing</h3>
 
 1- /set_phone<br>
 	- send one valid phone number<br>
