@@ -1,5 +1,7 @@
 <h3>Functional testing</h3>
 
+- Features
+- <a name="Chatbot">Chatbot commands</a>
 
 <h3>Features</h3>
 
@@ -11,7 +13,7 @@ Bug-reports<br>
 - <a href="https://docs.google.com/spreadsheets/d/1tNagMIF4eYjgD_BL5_GjFs7X_ddDJYSbpO9NZRbFwHs/edit?usp=drive_link">The invalid symbols characters are shown after typing in the "Name" field without any validation error message.</a>
 - <a href="https://docs.google.com/spreadsheets/d/1N_7oR7md5W4-cm_o_eM-f7l1znAkgDw-XhvdIkCfEE0/edit#gid=0">The valid data is shown in the "Email" field with the validation error message.</a> 
 
-<h3>Chatbot commands testing</h3>
+<h3>Chatbot commands testing</h3>(#Chatbot)
 
 1- /set_phone<br>
 	- send one valid phone number<br>
