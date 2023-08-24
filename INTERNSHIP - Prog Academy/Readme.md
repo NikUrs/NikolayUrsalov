@@ -41,7 +41,7 @@ Managers can generate a certificate of any course for one student or for one gro
 Successfully message: "Command execution finished successfully!"<br><br>
 
 <h4>Testing types</h4>
-<strong>Functional</strong> testing <a href="https://github.com/NikUrs/NikolayUrsalov/blob/main/INTERNSHIP%20-%20Prog%20Academy/Functional/Readme.md">click to the link<br>
+<strong>Functional</strong> testing <a href="https://github.com/NikUrs/NikolayUrsalov/blob/main/INTERNSHIP%20-%20Prog%20Academy/Functional/Readme.md">click to the link</a><br>
 - <strong>Features</strong> (including Mobile site version)<br>
 - <strong>API</strong> testing<br><br>
 - <strong>Chatbot commands testing</strong><br>
