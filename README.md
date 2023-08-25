@@ -6,7 +6,7 @@ Testing of the client-server application that helps to automate the communicatio
 Requirements-Based testing of web application that allows users to keep track of electricity meters in a company. <br>
 <a href="https://bit.ly/45luAtv">Link to documentation</a>
 
-<h3>Challenges</h3>
+<h3>3. Challenges</h3>
 Testing different websites and projects, passing tutorials<br> <a href="https://github.com/NikUrs/NikolayUrsalov/tree/main/Challenges">Click to the link</a>
 
 <h3>4. Game Testing</h3>
