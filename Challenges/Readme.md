@@ -8,7 +8,7 @@
 
 3. Тестирование Listboxer
    - Тест-кейс <a href="https://docs.google.com/spreadsheets/d/13Ij7xlx558jcWZsFIqEEIRGHIEco4NKL2DVjASslptE/edit?usp=drive_link">перейти к файлу</a>
-   - Чек-лист
+   - Чек-лист <a href="https://docs.google.com/spreadsheets/d/1RY0YS71wzmfuoZD_lmVDFqL4k_3uCVAc/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Чек-лист. Установка приложения ListBoxer</a>
 4. Другое
    - Вычитка требований
    - Тестирование формы регистрации
