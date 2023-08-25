@@ -3,7 +3,7 @@
 - [Features](#Features)
 - [API testing](#API)
 - [Chatbot command testing](#Chatbot)
-
+<hr>
 <a name="Features"></a><h3>Features</h3>
 
 <h4>Check list</h4>
@@ -69,7 +69,7 @@
 - <a href="https://docs.google.com/spreadsheets/d/1tNagMIF4eYjgD_BL5_GjFs7X_ddDJYSbpO9NZRbFwHs/edit?usp=drive_link">The invalid symbols characters are shown after typing in the "Name" field without any validation error message.</a><br>
 - <a href="https://docs.google.com/spreadsheets/d/1N_7oR7md5W4-cm_o_eM-f7l1znAkgDw-XhvdIkCfEE0/edit#gid=0">The valid data is shown in the "Email" field with the validation error message.</a> 
 
-
+<hr>
 <a name="API"></a><h3>API testing</h3>
 <h4>Check list</h4>
 
@@ -129,7 +129,7 @@
 - <a href="https://docs.google.com/spreadsheets/d/1GUh7iq5HOQi4Y1UEAvH2Tiz7EjniMKI_TgmAdWLBZxA/edit#gid=0">JSON data in the response body isn't matched with the technical task after when one invite code is used more than 5 times.</a>
 
 
-
+<hr>
 
 <a name="Chatbot"></a><h3>Chatbot commands testing</h3>
 
