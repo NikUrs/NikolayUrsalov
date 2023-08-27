@@ -2,8 +2,8 @@
 
 - <strong>[Features](#Features)</strong>
   	- [Checklist](#Checklist)
-- [API testing](#API)
-- [Chatbot command testing](#Chatbot)
+- <strong>[API testing](#API)</strong>
+- <strong>[Chatbot command testing](#Chatbot)</strong>
 <hr>
 <a name="Features"></a><h3>Features</h3>
 
