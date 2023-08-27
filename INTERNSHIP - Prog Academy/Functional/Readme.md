@@ -1,12 +1,13 @@
 <h3>Functional testing</h3>
 
 - [Features](#Features)
+  	- [Checklist](#Checklist)
 - [API testing](#API)
 - [Chatbot command testing](#Chatbot)
 <hr>
 <a name="Features"></a><h3>Features</h3>
 
-<h4>Check list</h4>
+<a name="Checklist"></a><h4>Check list</h4>
 
 1. "Invite" page<br>
 - sending a valid invite code<br>
