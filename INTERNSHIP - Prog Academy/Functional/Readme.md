@@ -1,6 +1,6 @@
 <h3>Functional testing</h3>
 
-- [Features](#Features)
+- <strong>[Features](#Features)</strong>
   	- [Checklist](#Checklist)
 - [API testing](#API)
 - [Chatbot command testing](#Chatbot)
