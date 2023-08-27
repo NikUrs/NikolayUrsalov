@@ -68,8 +68,12 @@
 	- <a href="https://docs.google.com/spreadsheets/d/1hnf9GQcA1bh_rulY5DjwS9RoPrIlOp5Z/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Entering the invalid data in the "Email" field</a><br>
 
 <h4>Bug-reports</h4>
+- "Invite" page<br>
+- "Registration" page<br>
 - <a href="https://docs.google.com/spreadsheets/d/1tNagMIF4eYjgD_BL5_GjFs7X_ddDJYSbpO9NZRbFwHs/edit?usp=drive_link">The invalid symbols characters are shown after typing in the "Name" field without any validation error message.</a><br>
-- <a href="https://docs.google.com/spreadsheets/d/1N_7oR7md5W4-cm_o_eM-f7l1znAkgDw-XhvdIkCfEE0/edit#gid=0">The valid data is shown in the "Email" field with the validation error message.</a> 
+- <a href="https://docs.google.com/spreadsheets/d/1N_7oR7md5W4-cm_o_eM-f7l1znAkgDw-XhvdIkCfEE0/edit#gid=0">The valid data is shown in the "Email" field with the validation error message.</a><br>
+- <a href="https://docs.google.com/spreadsheets/d/1RLyIneYOWRytbx3LyRzOx9SPPTmG_Q41-LPbeXGAhew/edit?usp=drive_link">The success page is shown after sending the  registration form with the reused email address.</a><br>
+- <a href="https://docs.google.com/spreadsheets/d/1K18xAxBUOHqcjI4q2lWE5ApOid_nMb4KOtb_z22IVS0/edit?usp=drive_link">After clicking on the "Surname" label the "Fist name" field is got the focus state.</a>
 
 <hr>
 <a name="API"></a><h3>API testing</h3>
