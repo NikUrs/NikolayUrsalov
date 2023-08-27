@@ -50,7 +50,7 @@
 - registration in incognito mode of a browser<br>
 
 3. “Success” page<br>
-- opening the page using direct link<br>
+- opening the page using the direct link<br>
 - check if email with the link was sent<br>
 - follow the link<br>
 - compare links (from email address and on the “Success” page)<br>
