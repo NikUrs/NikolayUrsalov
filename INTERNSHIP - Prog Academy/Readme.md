@@ -8,35 +8,35 @@ Testing of the project, which consists of<br>
 
 <h4>User / Admin (manager) rights</h4>
 
--- “Invite” page
+- “Invite” page
 User can enter an invite code, which he got from a manager or another student. After that, he got access to the “Prog Academy” school website's feature functionality.
 
--- “Registration” page
+- “Registration” page
 On this page user sends the registration form, which is filled with his personal information, to the server. After sending that form the user gets the email with the link to the chatbot “Prog Julia” in Telegram. <br>
 
--- “Success” page
+- “Success” page
 User can go to the chatbot “Prog Julia” by clicking on the button. <br>
 Also, the link to the chatbot “Prog Julia” is sent to user's email address. <br>
 
--- Chatbot commands
+- Chatbot commands
 For managers, chatbot commands help to automate their work. <br>
 Students can get the necessary information without managers' help.
 
 <h4>Admin (manager) rights</h4>
--- “Certificate” page<br>
+- “Certificate” page<br>
 Managers can generate a certificate of any course for one student or for one group.  <br>
 
 <h4>A set of chatbot commands:</h4>
-/set_email: set email(s) to user<br>
-/certificate: Command to generate and send certificates to students.<br>
-/invite_group_new: create an invite code to join the group of users<br>
-/help: List all commands<br>
-/group_list: list all groups<br>
-/users_list: show a list of all users<br>
-/set_phone: set phone(s) to user<br>
-/user_find: find the user by phone or e-mail<br>
-/group_new: create a new group of users<br>
-/broadcast: broadcast message to users<br><br>
+- /set_email: set email(s) to user<br>
+- /certificate: Command to generate and send certificates to students.<br>
+- /invite_group_new: create an invite code to join the group of users<br>
+- /help: List all commands<br>
+- /group_list: list all groups<br>
+- /users_list: show a list of all users<br>
+- /set_phone: set phone(s) to user<br>
+- /user_find: find the user by phone or e-mail<br>
+- /group_new: create a new group of users<br>
+- /broadcast: broadcast message to users<br><br>
 
 Successfully message: "Command execution finished successfully!"<br><br>
 
