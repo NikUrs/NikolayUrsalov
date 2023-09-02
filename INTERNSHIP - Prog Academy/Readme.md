@@ -24,10 +24,12 @@ For managers, chatbot commands help to automate their work. <br>
 Students can get the necessary information without managers' help.
 
 <h4>Admin (manager) rights</h4>
+
 - “Certificate” page<br>
 Managers can generate a certificate of any course for one student or for one group.  <br>
 
 <h4>A set of chatbot commands:</h4>
+
 - /set_email: set email(s) to user<br>
 - /certificate: Command to generate and send certificates to students.<br>
 - /invite_group_new: create an invite code to join the group of users<br>
