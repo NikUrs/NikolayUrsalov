@@ -31,15 +31,15 @@ Managers can generate a certificate of any course for one student or for one gro
 <h4>A set of chatbot commands:</h4>
 
 - /set_email: set email(s) to user<br>
-- /certificate: Command to generate and send certificates to students.<br>
+- /certificate: command to generate and send certificates to students.<br>
 - /invite_group_new: create an invite code to join the group of users<br>
-- /help: List all commands<br>
+- /help: list all commands<br>
 - /group_list: list all groups<br>
 - /users_list: show a list of all users<br>
 - /set_phone: set phone(s) to user<br>
 - /user_find: find the user by phone or e-mail<br>
 - /group_new: create a new group of users<br>
-- /broadcast: broadcast message to users<br><br>
+- /broadcast: broadcast message to users<br>
 
 Successfully message: "Command execution finished successfully!"<br><br>
 
