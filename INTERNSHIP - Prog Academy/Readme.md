@@ -51,7 +51,7 @@ Successfully message: "Command execution finished successfully!"<br><br>
 - <strong>Chatbot commands testing</strong><br>
 <h4><strong>GUI</strong> (including Mobile site version) testing <a href="https://github.com/NikUrs/NikolayUrsalov/blob/main/INTERNSHIP%20-%20Prog%20Academy/GUI/Check%20list%20%2B%20Bug%20reports.md">click to the link</a></h4>
 
-<h4><strong>Cross Browser</strong> testing</h4>
+<strong>Cross Browser</strong> testing
 Testing was performed in the following list of browsers:<br>
 
 - Opera v.100.0.4815.21<br>
