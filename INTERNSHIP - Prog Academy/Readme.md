@@ -57,7 +57,7 @@ Testing was performed in the following list of browsers:<br>
 - Opera v.100.0.4815.21<br>
 - Google Chrome v.114.0.5735.133<br>
 - Mozilla Firefox v.116.0.2<br>
-- Safari v.16.5.2<br><br>
+- Safari v.16.5.2<br>
 
 <strong>Security</strong> testing
 1. Block user’s ip on 1 hour (improvement).<br>
