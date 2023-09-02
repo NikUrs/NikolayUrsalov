@@ -49,11 +49,14 @@ Successfully message: "Command execution finished successfully!"<br><br>
 - <strong>API</strong> testing<br>
 - <strong>Chatbot commands testing</strong><br>
 <h4><strong>GUI</strong> (including Mobile site version) <a href="https://github.com/NikUrs/NikolayUrsalov/blob/main/INTERNSHIP%20-%20Prog%20Academy/GUI/Check%20list%20%2B%20Bug%20reports.md">click to the link</a></h4>
+
 <h4><strong>Cross Browser</strong> testing</h4>
-1. Opera 100.0.4815.21<br>
-2. Google Chrome 114.0.5735.133<br>
-3. Mozilla Firefox 116.0.2<br>
-4. Safari 16.5.2<br><br>
+Testing was performed in the following list of browsers:<br>
+
+- Opera v.100.0.4815.21<br>
+- Google Chrome v.114.0.5735.133<br>
+- Mozilla Firefox v.116.0.2<br>
+- Safari v.16.5.2<br><br>
 
 <strong>Security</strong> testing
 1. Block user’s ip on 1 hour (improvement).<br>
