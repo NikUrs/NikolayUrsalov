@@ -64,7 +64,7 @@
 <h4>Test-cases</h4>
 
 - "Registration" page<br>
-	- <a target="_blank" href="https://docs.google.com/spreadsheets/d/1k1Ho59dMCFbFvGevWtq7IEgSbBQ7ae9TdQ2aKOYOh6w/edit?usp=drive_link">Entering valid data in the "Email" field</a><br>
+	- <a href="https://docs.google.com/spreadsheets/d/1k1Ho59dMCFbFvGevWtq7IEgSbBQ7ae9TdQ2aKOYOh6w/edit?usp=drive_link" target="_blank">Entering valid data in the "Email" field</a><br>
 	- <a href="https://docs.google.com/spreadsheets/d/1hnf9GQcA1bh_rulY5DjwS9RoPrIlOp5Z/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Entering the invalid data in the "Email" field</a><br>
 
 <h4>Bug-reports</h4>
