@@ -49,7 +49,7 @@ Successfully message: "Command execution finished successfully!"<br><br>
 - <strong>Features</strong> (including Mobile site version)<br>
 - <strong>API</strong> testing<br>
 - <strong>Chatbot commands testing</strong><br>
-<h4><strong>GUI</strong> (including Mobile site version) <a href="https://github.com/NikUrs/NikolayUrsalov/blob/main/INTERNSHIP%20-%20Prog%20Academy/GUI/Check%20list%20%2B%20Bug%20reports.md">click to the link</a></h4>
+<h4><strong>GUI</strong> (including Mobile site version) testing <a href="https://github.com/NikUrs/NikolayUrsalov/blob/main/INTERNSHIP%20-%20Prog%20Academy/GUI/Check%20list%20%2B%20Bug%20reports.md">click to the link</a></h4>
 
 <h4><strong>Cross Browser</strong> testing</h4>
 Testing was performed in the following list of browsers:<br>
