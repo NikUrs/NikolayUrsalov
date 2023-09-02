@@ -1,5 +1,6 @@
 <h3>Internship - Test Documentation</h3>
 Testing of the project, which consists of<br>
+
 - “Invite” page<br>
 - “Registration” page<br>
 - “Success” page<br>
