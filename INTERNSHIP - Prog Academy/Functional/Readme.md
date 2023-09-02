@@ -75,7 +75,7 @@
 - <a href="https://docs.google.com/spreadsheets/d/1RLyIneYOWRytbx3LyRzOx9SPPTmG_Q41-LPbeXGAhew/edit?usp=drive_link">The success page is shown after sending the  registration form with the reused email address.</a><br>
 - <a href="https://docs.google.com/spreadsheets/d/1K18xAxBUOHqcjI4q2lWE5ApOid_nMb4KOtb_z22IVS0/edit?usp=drive_link">After clicking on the "Surname" label the "Fist name" field is got the focus state.</a><br>
 - <a href="https://docs.google.com/spreadsheets/d/1faetb7STSzvGPd4tw0xcwHl1DdQNnbaJaeedGQMnYMM/edit?usp=drive_link">After sending the filled form with an unavailable network connection, the status code 500 is shown when this network connection is restored.</a><br>
-- <a href="https://docs.google.com/spreadsheets/d/1N_7oR7md5W4-cm_o_eM-f7l1znAkgDw-XhvdIkCfEE0/edit?usp=drive_link">The valid data is shown in the "Email" field with the validation error message.</a>
+- <a href="https://docs.google.com/spreadsheets/d/1N_7oR7md5W4-cm_o_eM-f7l1znAkgDw-XhvdIkCfEE0/edit?usp=drive_link">The valid data is shown in the "Email" field with the validation error message.</a><br>
 - "Success" page<br>
 - <a href="https://docs.google.com/spreadsheets/d/1lEdpjmBqe1bI956ex78mkJ58upFuzl-j71OrpFXDtts/edit#gid=0">Bug report 18. The validation error message isn’t shown after opening the “Success” page via the direct link.</a>
 
