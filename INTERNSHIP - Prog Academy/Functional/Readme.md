@@ -110,13 +110,13 @@
 	- email address without domain name<br>
 	- email address without username<br>
 - successfully validation message (and status code)<br>
-- validation error message (and status code)<br><br>
+- validation error message (and status code)<br>
 
 3. “Success” page<br>
 - links (on the page, in an email) are compared to each other<br>
 - check response fields<br>
 - successfully validation message (and status code)<br>
-- validation error message (and status code)<br><br>
+- validation error message (and status code)<br>
 
 4. “Certificate” page<br>
 - getting the unique certificate by its identifier  <br>
@@ -132,7 +132,7 @@
 
 <h4><strong>Test case</strong></h4>
 - <a href="https://docs.google.com/spreadsheets/d/1NYSdLCJyl7ICzIMEK1sHL3pvW-ngJJg5/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Sending request with an invalid data for the name key</a><br>
-- <a href="https://docs.google.com/spreadsheets/d/1tgD6m_swB5_1FQYxG0KPlwJqbFE853OK/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Request with an invalid value for the "invite code" key</a><br><br>
+- <a href="https://docs.google.com/spreadsheets/d/1tgD6m_swB5_1FQYxG0KPlwJqbFE853OK/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Request with an invalid value for the "invite code" key</a><br>
 
 <h4><strong>Bug reports</strong></h4>
 - <a href="https://docs.google.com/spreadsheets/d/1yyTTQz5-Sj18Bj5u6iT-W3JxO7q80B_doJE2B71GNdA/edit?usp=drive_link">JSON data in the response body isn't matched with the technical task after sending the argument with an invalid value for the "name" key.</a><br>
