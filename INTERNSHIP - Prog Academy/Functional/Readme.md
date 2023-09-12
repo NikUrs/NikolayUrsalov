@@ -222,7 +222,7 @@
 	- checking the created group during one "session"<br>
 
 <h4>Test-cases</h4>
-- <a href="https://docs.google.com/spreadsheets/d/18hdKZYyNR6_YuQIqBOobO_dhKbYjztsd/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Checking of using the "set_phone" command.</a><br>
+- <a href="https://docs.google.com/spreadsheets/d/18hdKZYyNR6_YuQIqBOobO_dhKbYjztsd/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Check the use of "set_phone" command.</a><br>
 
 <h4>Bug reports</h4>
 - Bug report <a href="https://docs.google.com/spreadsheets/d/1uOoqdZPZafw1FRrFuZ5T7Wd3EeA6_8nPSSRIfzM31yk/edit#gid=0">012 - Chatbot. The validation error message is shown with program code after sending not valid values when using the “/invite_group_new” command.</a><br>
