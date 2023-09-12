@@ -227,4 +227,5 @@
 <h4>Bug reports</h4>
 - <a href="https://docs.google.com/spreadsheets/d/1bXGWtN_nC8rS-nqif5d7xvoF2fzvuHbQT6AbdUL1oWo/edit?usp=drive_link">The validation error message isn’t shown after sending an invalid data when using the /certificate command.</a><br>
 - <a href="https://docs.google.com/spreadsheets/d/1-PsMUQ-eoBH3yQ_-2lPkC6U99ULIt5nGg-VgJOunlzc/edit?usp=drive_link">The error message is shown after sending a phone number without “plus” character.</a><br>
+- <a href="https://docs.google.com/spreadsheets/d/1KDmJS8DEpiPMvcadH69OBqGh5TLdhZdceNJXT9O6nr4/edit#gid=0">15.1 - Chatbot. The error message isn’t shown with an example of the valid format of data after sending an 8-digits phone number.</a>
 - <a href="https://docs.google.com/spreadsheets/d/1pkZ4mRKTQcyhCtZA4XyRZunuFaav7PJrlcMguUsSp8w/edit#gid=0">Bug report 16.1 - Chatbot. The error message isn’t shown with an example of the valid format of data after sending more than one phone number with different length.</a>
