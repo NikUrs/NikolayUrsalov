@@ -164,58 +164,46 @@
 	- send more than one phone number (negative scenario)	<br>
 		- send one valid and one invalid phone numbers<br>
 		- send two phone numbers, that are separeted by a space<br>
-		- send two phone numbers with different combinations of format <br><br>
+		- send two phone numbers with different combinations of format <br>
 
 2- /set_email<br>
-	- send valid email address<br>
-	- email address with numbers in username part<br>
-	- email address with _- characters in the username part<br>
-	- send invalid email address<br>
-		- email address without @ character<br>
-		- email address without dot in the domain name part<br>
-		- email address without domain name part<br>
-		- email address without username<br>
-		- email address with special characters (except -_)<br>
-		- email address with numbers in domain name part	<br>
-		- email address with CamelCase<br>
-		- email address with a space inside<br>
-		- email address with one of the follow characters in the start: @.-_  <br><br>
+	
 
 3- /group_list<br>
 	- check the existing groups<br>
 	- check a group which was created in current “session” <br>
 	- check the successfully message<br>
-	- check the error message <br><br>
+	- check the error message <br>
 
 4- /invite_group_new<br>
 	- send a valid data<br>
 	- check a received invite link	<br>
-	- send an invalid data (inappropriate data types)<br><br>
+	- send an invalid data (inappropriate data types)<br>
 
 5- /help<br>
 	- check the list of commands<br>
-	- launching of each command from the list<br><br>
+	- launching of each command from the list<br>
 
 6- /broadcast<br>
 	- check a message transfer with a valid data<br>
-	- check a message transfer with an invalid data<br><br>
+	- check a message transfer with an invalid data<br>
 
 7- /group_new<br>
 	- ввод валидного значения (позитивный сценарий)<br>
-	- ввод невалидных значений<br><br>
+	- ввод невалидных значений<br>
 
 8- /user_find<br>
 	- send a valid id<br>
 	- send an invalid id<br>
 		- if user's id was removed<br>
-		- use inappropriate data types<br><br>
+		- use inappropriate data types<br>
 
 9- /certificate<br>
 	- send valid existing id of generated certificate<br>
 	- send invalid id of generated certificate<br>
 		- id number that doesn’t exist<br>
 		- inappropriate data types<br>
-		- id is empty	 <br><br>
+		- id is empty	 <br>
 
 10- /users_list<br>
 	- check the existing list of users<br>
