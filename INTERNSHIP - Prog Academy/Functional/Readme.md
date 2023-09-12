@@ -225,6 +225,7 @@
 - <a href="https://docs.google.com/spreadsheets/d/18hdKZYyNR6_YuQIqBOobO_dhKbYjztsd/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Checking of using the "set_phone" command.</a><br>
 
 <h4>Bug reports</h4>
+- Bug report <a href="https://docs.google.com/spreadsheets/d/1uOoqdZPZafw1FRrFuZ5T7Wd3EeA6_8nPSSRIfzM31yk/edit#gid=0">012 - Chatbot. The validation error message is shown with program code after sending not valid values when using the “/invite_group_new” command.</a><br>
 - Bug report <a href="https://docs.google.com/spreadsheets/d/1bXGWtN_nC8rS-nqif5d7xvoF2fzvuHbQT6AbdUL1oWo/edit?usp=drive_link">13. The validation error message isn’t shown after sending an invalid data when using the /certificate command.</a><br>
 - Bug report <a href="https://docs.google.com/spreadsheets/d/1-PsMUQ-eoBH3yQ_-2lPkC6U99ULIt5nGg-VgJOunlzc/edit?usp=drive_link">14. The error message is shown after sending a phone number without “plus” character.</a><br>
 - Bug report <a href="https://docs.google.com/spreadsheets/d/1LWxdabb_98eGmV4hBbAjI-q84lk4ksIeNQY5U4NrtlU/edit#gid=0">015. The error message is shown after sending a valid phone number with 9 number when using the “set_phone” command.</a><br>
