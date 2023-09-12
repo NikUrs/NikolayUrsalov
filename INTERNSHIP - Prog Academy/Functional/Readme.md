@@ -169,8 +169,8 @@
 2- /set_email<br>
 	- send valid email address<br>
 	- email address with numbers in username part<br>
-	- \email address with _- characters in the username part<br>
-	- \send invalid email address<br>
+	- email address with _- characters in the username part<br>
+	- send invalid email address<br>
 		- email address without @ character<br>
 		- email address without dot in the domain name part<br>
 		- email address without domain name part<br>
