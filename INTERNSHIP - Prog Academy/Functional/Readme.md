@@ -167,7 +167,19 @@
 		- send two phone numbers with different combinations of format <br>
 
 2- /set_email<br>
-	
+	- send valid email address<br>
+	- email address with numbers in username part<br>
+	- email address with _- characters in the username part<br>
+	- send invalid email address<br>
+		- email address without @ character<br>
+		- email address without dot in the domain name part<br>
+		- email address without domain name part<br>
+		- email address without username<br>
+		- email address with special characters (except -_)<br>
+		- email address with numbers in domain name part	<br>
+		- email address with CamelCase<br>
+		- email address with a space inside<br>
+		- email address with one of the follow characters in the start: @.-_  <br>
 
 3- /group_list<br>
 	- check the existing groups<br>
