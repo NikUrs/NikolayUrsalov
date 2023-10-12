@@ -21,7 +21,7 @@
     <td colspan="2"><b>Creating of a product card <br>POST /api/v1/orders<b></td>
     <td colspan="2"></td>
     <td></td>
-    <td></td>
+    <td>https://docs.google.com/spreadsheets/d/1meeA4eLDlrvXyTQUmsVTSgXwGKC_EpaXH5ZwLcABQ_E/edit#gid=0</td>
   </tr>
   <tr>
     <td colspan="2"></td>
