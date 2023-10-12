@@ -1,5 +1,5 @@
 
-<table>
+
 
   <tr>
     <th colspan="2"><h3>Name of the verify</h3></th>
