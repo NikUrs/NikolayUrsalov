@@ -30,13 +30,13 @@
     <td colspan="2"></td>
     <td colspan="2">Status 201</td>
     <td></td>
-    <td></td>>
+    <td colspan="2"></td>>
   </tr>
 <tr>
     <td colspan="2"></td>
     <td colspan="2">Product card creating with main fields</td>
     <td>Passed</td>
-    <td></td>
+    <td colspan="2"></td>
 </tr>
 <tr>
     <td colspan="2"></td>
