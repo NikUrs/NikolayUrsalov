@@ -106,8 +106,8 @@
     <td></td>
 </tr>
 <tr>
-    <td colspan="2">400</td>
     <td colspan="2"></td>
+    <td colspan="2">400</td>
     <td>Passed</td>
     <td></td>
 </tr>
