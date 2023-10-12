@@ -12,7 +12,7 @@
 
 <tr>
   <th colspan="2"><h3>Name of the verify</h3></th>
-  <th><h3>Description of the verify</h3></th>
+  <th colspan="2"><h3>Description of the verify</h3></th>
   <th><h3>Status</h3></th>
   <th><h3>Bug link</h3></th>
 </tr>
