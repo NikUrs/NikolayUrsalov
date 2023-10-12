@@ -1,5 +1,13 @@
 
 
+
+  Platform: PC<br>
+  OS: Windows<br> 
+  OS Version: 10 x64<br>
+  Tester: Nikolay Ursalov<br>
+
+
+
 <table>
   <tr>
     <th colspan="2"><h3>Name of the verify</h3></th>
