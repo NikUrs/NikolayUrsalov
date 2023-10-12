@@ -36,7 +36,7 @@
     <td colspan="2"></td>
     <td colspan="2">Product card creating with main fields</td>
     <td>Passed</td>
-    <td colspan="2"><a href="https://docs.google.com/spreadsheets/d/1meeA4eLDlrvXyTQUmsVTSgXwGKC_EpaXH5ZwLcABQ_E/edit#gid=0>Ссылка на баг-репорт</a></td>
+    <td colspan="2"><a href="https://docs.google.com/spreadsheets/d/1meeA4eLDlrvXyTQUmsVTSgXwGKC_EpaXH5ZwLcABQ_E/edit#gid=0">Ссылка на баг-репорт</a></td>
 </tr>
 <tr>
     <td colspan="2"></td>
