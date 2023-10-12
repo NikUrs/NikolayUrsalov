@@ -24,19 +24,22 @@
     <td></td>
   </tr>
   <tr>
-    <td colspan="2">1.1. Download on the Steam</td>
-    <td>Pass</td>
+    <td colspan="2"></td>
+    <td colspan="2">Status 201</td>
     <td></td>
+    <td></td>>
   </tr>
 <tr>
-  <td colspan="2">1.2. Installation</td>
-  <td>Pass</td>
-  <td></td>
+    <td colspan="2"></td>
+    <td colspan="2">Product card creating with main fields</td>
+    <td>Pass</td>
+    <td></td>
 </tr>
 <tr>
-  <td colspan="2">1.3. Launching</td>
-  <td>Pass</td>
-  <td></td>
+  <td colspan="2"></td>
+    <td colspan="2">Product card creating with empty fields</td>
+    <td>Pass</td>
+    <td></td>
 </tr>
 <tr>
   <td colspan="2">1.4. Uninstalling</td>
