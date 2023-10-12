@@ -1,43 +1,8 @@
 
-
-
   Platform: PC<br>
   OS: Windows<br> 
   OS Version: 10 x64<br>
   Tester: Nikolay Ursalov<br>
-
-
-
-<table>
-
-<tr>
-  <th colspan="2"><h3>Checking</h3></th>
-  <th><h3>Status</h3></th>
-  <th><h3>Bug / Comments</h3></th>
-</tr>
-
-<tr>
-  <td colspan="2"><h3>1. Installing / Uninstalling & launching the game</h3></td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td colspan="2">1.1. Download on the Steam</td>
-  <td>Pass</td>
-  <td></td>
-</tr>
-
-
-</table>
-
-
-
-  Platform: PC<br>
-  OS: Windows<br> 
-  OS Version: 10 x64<br>
-  Tester: Nikolay Ursalov<br>
-
-
 
 <table>
   <tr>
@@ -57,7 +22,7 @@
     <td colspan="2"></td>
     <td colspan="2">Status 201</td>
     <td></td>
-    <td colspan="2"></td>>
+    <td colspan="2"></td>
   </tr>
 <tr>
     <td colspan="2"></td>
