@@ -10,24 +10,24 @@
 
 <table>
 
-<tr>
-  <th colspan="2"><h3>Name of the verify</h3></th>
-  <th colspan="2"><h3>Description of the verify</h3></th>
-  <th><h3>Status</h3></th>
-  <th><h3>Bug link</h3></th>
-</tr>
+  <tr>
+    <th colspan="2"><h3>Name of the verify</h3></th>
+    <th colspan="2"><h3>Description of the verify</h3></th>
+    <th><h3>Status</h3></th>
+    <th><h3>Bug link</h3></th>
+  </tr>
 
-<tr>
-  <td colspan="2"><b>Creating of a product card <br>POST /api/v1/orders<b></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td colspan="2">1.1. Download on the Steam</td>
-  <td>Pass</td>
-  <td></td>
-</tr>
+  <tr>
+    <td colspan="2"><b>Creating of a product card <br>POST /api/v1/orders<b></td>
+    <td colspan="2"></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">1.1. Download on the Steam</td>
+    <td>Pass</td>
+    <td></td>
+  </tr>
 <tr>
   <td colspan="2">1.2. Installation</td>
   <td>Pass</td>
