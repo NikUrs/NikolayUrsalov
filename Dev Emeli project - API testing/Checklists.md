@@ -108,13 +108,13 @@
 <tr>
     <td colspan="2"></td>
     <td colspan="2">400</td>
-    <td>Passed</td>
+    <td></td>
     <td></td>
 </tr>
 <tr>
     <td colspan="2"></td>
-    <td colspan="2">Fields validation (invalid data)</td>
-    <td>Passed</td>
+    <td colspan="2"></td>
+    <td></td>
     <td></td>
 </tr>
 
