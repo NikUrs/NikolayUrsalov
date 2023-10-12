@@ -32,95 +32,89 @@
 <tr>
     <td colspan="2"></td>
     <td colspan="2">Product card creating with main fields</td>
-    <td>Pass</td>
+    <td>Passed</td>
     <td></td>
 </tr>
 <tr>
-  <td colspan="2"></td>
+    <td colspan="2"></td>
     <td colspan="2">Product card creating with empty fields</td>
-    <td>Pass</td>
+    <td>Passed</td>
     <td></td>
 </tr>
 <tr>
-  <td colspan="2">1.4. Uninstalling</td>
-  <td>Pass</td>
-  <td></td>
+    <td colspan="2"></td>
+    <td colspan="2">Product card fields are filled with default values</td>
+    <td>Passed</td>
+    <td></td>
 </tr>
 
 <tr>
-  <td colspan="2"><h3>2. Splash and Landing page</h3></td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td colspan="2">2.1. Splash page</td>
-  <td>Pass</td>
-  <td></td>
-</tr>
-<tr>
-  <td colspan="2">2.2. Landing page</td>
-  <td>Pass</td>
-  <td></td>
+    <td colspan="2"></td>
+    <td colspan="2">Empty JSON</td>
+    <td>Passed</td>
+    <td></td>
 </tr>
 
 <tr>
-  <td colspan="2"><h3>3. Main menu</h3></td>
-  <td></td>
-  <td></td>
-</tr>
-<tr>
-  <td colspan="2">3.1. Main Menu screen</td>
-  <td>Failed</td>
-  <td>Bug Report 005. Chinese words are shown on the main menu screen   
-  <a href="https://docs.google.com/spreadsheets/d/136ptngWWdCebSHk99Pl9DWrSRwNVvRtw/edit?usp=drive_link&ouid=102543284257195464370&rtpof=true&sd=true">Link to Bug Report 005</a><br>
-    Bug Report 006. The text of the button is shown beyond its borders    
-  <a href="https://docs.google.com/spreadsheets/d/1E1L2WNzd9QIJbnJSeANiHoqPqQAB0Bup/edit?usp=drive_link&ouid=102543284257195464370&rtpof=true&sd=true">Link to Bug Report 006</a>
-  </td>
-
-</tr>
-<tr>
-  <tr>
-  <td colspan="2">3.2. Settings</td>
-  <td>Failed</td>
-  <td>Bug Report 004. The button name is cut on both side in the "Setting" item
-  <a href="https://docs.google.com/spreadsheets/d/1JtND4OXxiNjMxw6SjQKXEn2vB9zqSYrH/edit?usp=drive_link&ouid=102543284257195464370&rtpof=true&sd=true">Link to Bug Report 004</a></td>
-</tr>
-<tr>
-  <td colspan="2">3.3. Market</td>
-  <td>Blocked</td>
-  <td>Need a credit card with funds</td>
-</tr>
-<tr>
-  <td colspan="2">3.4. Creating of the user profile via authorization form</td>
-  <td>Pass</td>
-  <td></td>
-</tr>
-<tr>
-  <td colspan="2">3.5. Creating of the user profile via social buttons</td>
-  <td>Pass</td>
-  <td></td>
-</tr>
-<tr>
-  <td colspan="2">3.6. Showing of users’ records in the animation format</td>
-  <td>Pass</td>
-  <td></td>
-</tr>
-<tr>
-  <td colspan="2">3.7. Social buttons of developers’ company</td>
-  <td>Pass</td>
-  <td></td>
+    <td colspan="2"></td>
+    <td colspan="2">Product creation date</td>
+    <td>Passed</td>
+    <td></td>
 </tr>
 
 <tr>
-  <td colspan="2"><h3>4. Menu before starting the mini game</h3></td>
-  <td></td>
-  <td></td>
+    <td colspan="2"></td>
+    <td colspan="2">Changing of the “Read-only” properties</td>
+    <td>Passed</td>
+    <td></td>
 </tr>
 <tr>
-  <td colspan="2">4.1. Animations </td>
-  <td>Pass</td>
-  <td></td>
+    <td colspan="2"></td>
+    <td colspan="2">“Dimensions” field has only one parameter</td>
+    <td>Passed</td>
+    <td></td>
+
 </tr>
+
+
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Sale_price value is less than a regular_price</td>
+    <td>Passed</td>
+    <td></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Sale_price value is equal to a regular_price</td>
+    <td>Passed</td>
+    <td></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Short_description is more than 250 letters</td>
+    <td>Passed</td>
+    <td></td>
+</tr>
+
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Sale_price value is equal to a regular_price</td>
+    <td>Passed</td>
+    <td></td>
+</tr>
+<tr>
+    <td colspan="2">400</td>
+    <td colspan="2"></td>
+    <td>Passed</td>
+    <td></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Fields validation (invalid data)</td>
+    <td>Passed</td>
+    <td></td>
+</tr>
+
 <tr>
   <td colspan="2">4.2. Constructor of the level</td>
   <td>Pass</td>
