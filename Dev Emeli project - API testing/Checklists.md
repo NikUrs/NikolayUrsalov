@@ -9,7 +9,7 @@
 
 
 | Name of the verify | Description of the verify | Status | Bug link |
-| --- | --- | --- | --- |
+| --- | --- | --- | <a href="https://docs.google.com/spreadsheets/d/1meeA4eLDlrvXyTQUmsVTSgXwGKC_EpaXH5ZwLcABQ_E/edit#gid=0>Ссылка на баг-репорт Ссылка на баг-репорт Ссылка на баг-репорт Ссылка на баг-репорт Ссылка на баг-репорт</a> |
 
 <table>
 
