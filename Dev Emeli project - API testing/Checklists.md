@@ -18,7 +18,8 @@
 </tr>
 
 <tr>
-  <td colspan="2"><h3>1. Installing / Uninstalling & launching the game</h3></td>
+  <td colspan="2"><b>Creating of a product card: POST /api/v1/orders<b></td>
+  <td></td>
   <td></td>
   <td></td>
 </tr>
