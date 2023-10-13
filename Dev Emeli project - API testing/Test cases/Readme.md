@@ -7,3 +7,5 @@
 - PATCH (<a href="https://docs.google.com/spreadsheets/d/1qAghAXd42VRjDDjb_343w_MshrW0Zl_y/edit?usp=drive_link">Click on the link</a>)  
 - PUT (<a href="https://docs.google.com/spreadsheets/d/1qAghAXd42VRjDDjb_343w_MshrW0Zl_y/edit?usp=drive_link">Click on the link</a>)
 - DELETE (<a href="https://docs.google.com/spreadsheets/d/1qAghAXd42VRjDDjb_343w_MshrW0Zl_y/edit?usp=drive_link">Click on the link</a>)
+
+<img src="https://drive.google.com/file/d/1iix8MbROmgAJAHwhdAIzLOPetMIaYP-i/view?usp=drive_link">
