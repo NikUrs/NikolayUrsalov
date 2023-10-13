@@ -6,7 +6,7 @@
 3. Bitmart
 4. ProgAcademy
 
-
+---
 
 
 4. <a href="https://docs.google.com/spreadsheets/d/1AfGnASMu5A8i7TCCYCRL2A1WZI_sCBryye8k_eITkSg/edit">Баг репорт-01. Стоимость обучения на курсе "Курс Web & UI/UX дизайн" отображается в виде программного кода на презентационной странице курса.</a>
