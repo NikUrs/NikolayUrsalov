@@ -10,13 +10,3 @@
 
 ![image](https://drive.google.com/file/d/1iix8MbROmgAJAHwhdAIzLOPetMIaYP-i/view?usp=drive_link)
 
-<p dir="auto">
-	
-	<img src="https://drive.google.com/file/d/1iix8MbROmgAJAHwhdAIzLOPetMIaYP-i/view?usp=drive_link" alt="F" style="max-width: 100%;">
-	
-</p>
-
-
-<a href="https://drive.google.com/file/d/1iix8MbROmgAJAHwhdAIzLOPetMIaYP-i/view?usp=drive_link"></a>
-
-https://drive.google.com/file/d/1iix8MbROmgAJAHwhdAIzLOPetMIaYP-i/view?usp=drive_link
