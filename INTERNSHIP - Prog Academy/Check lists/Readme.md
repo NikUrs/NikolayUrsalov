@@ -23,24 +23,52 @@
 </tr>
 <tr>
   <td colspan="2">1.1. Sending a valid invite code</td>
-  <td>Pass</td>
+  <td>Passed</td>
   <td></td>
 </tr>
 <tr>
   <td colspan="2">1.2. Sending an invalid invite code</td>
-  <td>Pass</td>
+  <td>Passed</td>
   <td></td>
 </tr>
 <tr>
   <td colspan="2">1.3. Sending empty field</td>
-  <td>Pass</td>
+  <td>Passed</td>
   <td></td>
 </tr>
 <tr>
   <td colspan="2">1.4. Sending a valid invite code in CamelCase</td>
-  <td>Pass</td>
+  <td>Passed</td>
   <td></td>
 </tr>
+<tr>
+  <td colspan="2">1.5. Invite code with a space</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">1.6. Inappropriate data types</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">1.7. Replace an uppercase letter with a lowercase letter and vice versa</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">1.8. Use an expired invite code</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">1.9. Validation error message</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+
+
+
 
 <tr>
   <td colspan="2"><h3>2. Splash and Landing page</h3></td>
