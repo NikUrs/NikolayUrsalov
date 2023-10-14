@@ -17,7 +17,7 @@
 </tr>
 
 <tr>
-  <td colspan="2"><h3>1. "Invite page"</h3></td>
+  <td colspan="2"><h3>1. "Invite" page</h3></td>
   <td></td>
   <td></td>
 </tr>
@@ -71,7 +71,7 @@
 
 
 <tr>
-  <td colspan="2"><h3>2. Splash and Landing page</h3></td>
+  <td colspan="2"><h3>2. "Registration" page</h3></td>
   <td></td>
   <td></td>
 </tr>
