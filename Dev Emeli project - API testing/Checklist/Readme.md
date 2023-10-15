@@ -42,7 +42,13 @@
     <td>Passed</td>
     <td></td>
 </tr>
-
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Reusing the name of an existing product</td>
+    <td>Passed</td>
+    <td></td>
+</tr>
+      
 <tr>
     <td colspan="2"></td>
     <td colspan="2">Empty JSON</td>
