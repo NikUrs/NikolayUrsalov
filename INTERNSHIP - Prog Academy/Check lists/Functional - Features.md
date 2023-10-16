@@ -97,12 +97,12 @@
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">  2.4.1. Empty field</td>
+  <td colspan="2">- 2.4.1. Empty field</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">2.4.2. Inappropriate data types for each field</td>
+  <td colspan="2">- 2.4.2. Inappropriate data types for each field</td>
   <td>Passed</td>
   <td></td>
 </tr>
