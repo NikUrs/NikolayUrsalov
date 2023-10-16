@@ -112,67 +112,52 @@
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">2.4.4. The first letter is lowercase for the “Surname” fields</td>
+  <td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;2.4.4. The first letter is lowercase for the “Surname” fields</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">2.4.5. Using a space inside fields’ values</td>
+  <td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;2.4.5. Using a space inside fields’ values</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">2.4.6. Amount of digits in phone number less than 8 and more than 16</td>
+  <td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;2.4.6. Amount of digits in phone number less than 8 and more than 16</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">2.4.7. Special characters inside a phone number (for exampe: -().)</td>
+  <td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;2.4.7. Special characters inside a phone number (for exampe: -().)</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">2.4.8. Email address without @ character</td>
+  <td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;2.4.8. Email address without @ character</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">2.4.9. Email address without dot</td>
+  <td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;2.4.9. Email address without dot</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">2.4.10. Email address without domain name</td>
+  <td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;2.4.10. Email address without domain name</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">2.4.11. Email address without username</td>
+  <td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;2.4.11. Email address without username</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">2.4.12. Email address with special characters (except -_)</td>
+  <td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;2.4.12. Email address with special characters (except -_)</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">2.4.13. Email address with numbers in domain name</td>
-  <td>Passed</td>
-  <td></td>
-</tr>
-<tr>
-  <td colspan="2">2.4.8. Email address without @ character</td>
-  <td>Passed</td>
-  <td></td>
-</tr>
-<tr>
-  <td colspan="2">2.4.6. Amount of digits in phone number less than 8 and more than 16</td>
-  <td>Passed</td>
-  <td></td>
-</tr>
-<tr>
-  <td colspan="2">2.4.7. Special characters inside a phone number (for exampe: -().)</td>
+  <td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;2.4.13. Email address with numbers in domain name</td>
   <td>Passed</td>
   <td></td>
 </tr>
@@ -181,6 +166,7 @@
   <td>Passed</td>
   <td></td>
 </tr>
+
 
 
 
