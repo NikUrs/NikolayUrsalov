@@ -162,11 +162,55 @@
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">2.4.8. Email address without @ character</td>
+  <td colspan="2">2.5. Checked reCaptcha</td>
   <td>Passed</td>
   <td></td>
 </tr>
-
+<tr>
+  <td colspan="2">2.6. Unchecked reCaptcha</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">2.7. Using one unique invite code more than 5 times</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">2.8. Opening the page using direct link</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">2.9. Phone number reuse during one iteration of using one invitation code</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">2.10. Email address reuse during one iteration of using one invitation code</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">2.11. Validation error message for each field</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">2.12. Follow a direct link without using invite code before</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">2.13. If a network is disconnected while the registration form is being sent</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">2.14. Registration in incognito mode of a browser</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
 
 
 
