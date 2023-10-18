@@ -53,22 +53,15 @@
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">1.7. Replace an uppercase letter with a lowercase letter and vice versa</td>
+  <td colspan="2">1.7. Successfully validation message (and status code)</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">1.8. Use an expired invite code</td>
+  <td colspan="2">1.8. Validation error message (and status code)</td>
   <td>Passed</td>
   <td></td>
 </tr>
-<tr>
-  <td colspan="2">1.9. Validation error message</td>
-  <td>Passed</td>
-  <td></td>
-</tr>
-
-
 
 
 <tr>
@@ -87,7 +80,7 @@
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">2.3. using the combination of valid and invalid values<br> for registration form's fields</td>
+  <td colspan="2">2.3. Using one unique invite code more than 5 times</td>
   <td>Passed</td>
   <td></td>
 </tr>
@@ -162,12 +155,12 @@
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">2.5. Checked reCaptcha</td>
+  <td colspan="2">2.5. Successfully validation message (repsonse body and status code)</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">2.6. Unchecked reCaptcha</td>
+  <td colspan="2">2.6. Validation error message (reponse body and status code)</td>
   <td>Passed</td>
   <td></td>
 </tr>
