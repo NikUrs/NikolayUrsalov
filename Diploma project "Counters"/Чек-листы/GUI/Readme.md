@@ -73,37 +73,37 @@
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">8.1. &nbsp;&nbsp;&nbsp;Поля</td>
+  <td colspan="2">&nbsp;&nbsp;&nbsp;8.1. Поля</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">8.2. &nbsp;&nbsp;&nbsp;Валидационные сообщения</td>
+  <td colspan="2">&nbsp;&nbsp;&nbsp;8.2. Валидационные сообщения</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">8.3. &nbsp;&nbsp;&nbsp;Обозначение обязательных полей</td>
+  <td colspan="2">&nbsp;&nbsp;&nbsp; 8.3. Обозначение обязательных полей</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">8.4. &nbsp;&nbsp;&nbsp;Выпадающий список арендаторов</td>
+  <td colspan="2">&nbsp;&nbsp;&nbsp; 8.4. Выпадающий список арендаторов</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">8.5. &nbsp;&nbsp;&nbsp;Выбор даты через календарь</td>
+  <td colspan="2">&nbsp;&nbsp;&nbsp; 8.5. Выбор даты через календарь</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">9. &nbsp;&nbsp;&nbsp;Поле поиска</td>
+  <td colspan="2">9. Поле поиска</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">10. &nbsp;&nbsp;&nbsp;Списки фильтров</td>
+  <td colspan="2">10. Списки фильтров</td>
   <td>Passed</td>
   <td></td>
 </tr>
