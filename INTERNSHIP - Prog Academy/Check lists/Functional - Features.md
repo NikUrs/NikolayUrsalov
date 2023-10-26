@@ -105,7 +105,7 @@
 <tr>
   <td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;2.4.2. Inappropriate data types for each field</td>
   <td>Passed</td>
-  <td></td>
+  <td><a href="https://docs.google.com/spreadsheets/d/1tNagMIF4eYjgD_BL5_GjFs7X_ddDJYSbpO9NZRbFwHs/edit?usp=drive_link">Bug report 005</a>,<a href="https://docs.google.com/spreadsheets/d/1tNagMIF4eYjgD_BL5_GjFs7X_ddDJYSbpO9NZRbFwHs/edit?usp=drive_link">Bug report 005</a></td>
 </tr>
 <tr>
   <td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;2.4.3. The first letter is lowercase for “Name” fields</td>
@@ -119,6 +119,11 @@
 </tr>
 <tr>
   <td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;2.4.5. Using a space inside fields’ values</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;2.4.5. Using only one space for each field</td>
   <td>Passed</td>
   <td></td>
 </tr>
