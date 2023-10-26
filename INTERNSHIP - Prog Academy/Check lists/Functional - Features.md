@@ -28,7 +28,7 @@
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">1.2. Sending an invalid invite code</td>
+  <td colspan="2">!!!!!!!!!!!1.2. Sending an invalid invite code</td>
   <td>Passed</td>
   <td></td>
 </tr>
@@ -67,6 +67,7 @@
   <td>Passed</td>
   <td></td>
 </tr>
+
 
 
 
@@ -207,10 +208,17 @@
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">2.14. Registration in an incognito mode of a browser</td>
+  <td colspan="2">2.14. Registration in a browser Incognito mode</td>
   <td>Passed</td>
   <td></td>
 </tr>
+<tr>
+  <td colspan="2">2.15. Check a limit on 5 registrations for one unique invite code</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+
+
 
 
 <tr>
