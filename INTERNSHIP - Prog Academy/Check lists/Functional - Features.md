@@ -88,7 +88,7 @@
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">2.3. using the combination of valid and invalid values<br> for registration form's fields</td>
+  <td colspan="2">2.3. Using combinations of valid and invalid values<br> for registration form's fields</td>
   <td>Passed</td>
   <td></td>
 </tr>
