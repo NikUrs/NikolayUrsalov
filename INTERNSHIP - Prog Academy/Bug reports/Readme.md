@@ -21,10 +21,9 @@
 - Bug report 16.1<a href="https://docs.google.com/spreadsheets/d/1pkZ4mRKTQcyhCtZA4XyRZunuFaav7PJrlcMguUsSp8w/edit#gid=0"> The error message isn’t shown with an example of the valid format of data after sending more than one phone number with different length.</a><br>
 
 <h4>GUI</h4>
+- <a href="https://docs.google.com/spreadsheets/d/12KEEJFddZtl741j8TxCts92ghMKKscoNiEowJAWGCqc/edit?usp=drive_link">Bug Report 006 [Front-end-04]. The registration form fields are shifted in relation to each other on mobile screens with a width range of 575-360.</a>
 
-Bug Report 006 [Front-end-04]. The registration form fields are shifted in relation to each other on mobile screens with a width range of 575-360.
-
-Bug Report 007 [Front-end-05]. The text of label elements is cut on different mobile screens with the width in the range 1300-576.
+- <a href="https://docs.google.com/spreadsheets/d/1L49IR-pGNUU1iiRUX3gF39JA6HDmMazQv_KX39uTFUw/edit?usp=drive_link">Bug Report 007 [Front-end-05]. The text of label elements is cut on different mobile screens with the width in the range 1300-576.</a>
 
 <h4>Test-cases</h4>
 
