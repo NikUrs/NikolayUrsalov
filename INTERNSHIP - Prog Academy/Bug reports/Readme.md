@@ -2,7 +2,7 @@
 <h4>Functional testing</h4>
 
 - "Invite" page<br>
-- <a href="https://docs.google.com/spreadsheets/d/1Fn7lGfk7Sxg4w7P8sfubcdUS0Z6yhLiAXcfR8-r9ZE4/edit#gid=0">The invalid symbols characters are shown after typing in the "Name" field without any validation error message.</a><br> 
+	- <a href="https://docs.google.com/spreadsheets/d/1Fn7lGfk7Sxg4w7P8sfubcdUS0Z6yhLiAXcfR8-r9ZE4/edit#gid=0">The invalid symbols characters are shown after typing in the "Name" field without any validation error message.</a><br> 
 
 - "Registration" page<br>
 - <a href="https://docs.google.com/spreadsheets/d/1tNagMIF4eYjgD_BL5_GjFs7X_ddDJYSbpO9NZRbFwHs/edit?usp=drive_link">The invalid symbols characters are shown after typing in the "Name" field without any validation error message.</a><br>
