@@ -30,6 +30,7 @@
 - <a href="https://docs.google.com/spreadsheets/d/1L49IR-pGNUU1iiRUX3gF39JA6HDmMazQv_KX39uTFUw/edit?usp=drive_link">Bug Report 007 [Front-end-05]. The text of label elements is cut on different mobile screens with the width in the range 1300-576.</a>
 
 <h4>Improvement reports</h4>
+
 - <a href="https://docs.google.com/spreadsheets/d/1EPhn7gw947D7yXp0c8SdPrJ-a8gHZOVhVgMhAMjoi0o/edit#gid=0">003. The information about sending the success message to the user’s email address isn't shown.</a><br>
 
 - <a href="https://docs.google.com/spreadsheets/d/1ZQHbYzH-a9EcmMUyRbbV89DUgfnDwnxJpU0L1RcrZ3E/edit#gid=0">002. The user’s IP isn’t blocked on 1 hour after the sending an invalid invite code more than 10 times.</a><br>
