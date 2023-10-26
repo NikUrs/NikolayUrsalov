@@ -38,7 +38,7 @@
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">1.4. Sending a valid invite code in CamelCase</td>
+  <td colspan="2">!!!!!1.4. Sending a valid invite code in CamelCase</td>
   <td>Passed</td>
   <td></td>
 </tr>
@@ -60,7 +60,7 @@
 <tr>
   <td colspan="2">1.8. Use an expired invite code</td>
   <td>Passed</td>
-  <td></td>
+  <td><a href="https://docs.google.com/spreadsheets/d/1Fn7lGfk7Sxg4w7P8sfubcdUS0Z6yhLiAXcfR8-r9ZE4/edit#gid=0"">The registration page is opened after sending the reused invite code.</a></td>
 </tr>
 <tr>
   <td colspan="2">1.9. Validation error message</td>
