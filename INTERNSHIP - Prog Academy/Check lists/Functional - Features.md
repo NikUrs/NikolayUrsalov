@@ -60,7 +60,7 @@
 <tr>
   <td colspan="2">1.8. Use an expired invite code</td>
   <td>Passed</td>
-  <td><a href="https://docs.google.com/spreadsheets/d/1Fn7lGfk7Sxg4w7P8sfubcdUS0Z6yhLiAXcfR8-r9ZE4/edit#gid=0"">"Registration" page is opened after sending the reused invite code.</a></td>
+  <td><a href="https://docs.google.com/spreadsheets/d/1Fn7lGfk7Sxg4w7P8sfubcdUS0Z6yhLiAXcfR8-r9ZE4/edit#gid=0"">"Registration" page is opened after sending a reused invite code.</a></td>
 </tr>
 <tr>
   <td colspan="2">1.9. Validation error message</td>
