@@ -80,7 +80,7 @@
 <tr>
   <td colspan="2">2.1. Sending the registration form with valid values</td>
   <td>Passed</td>
-  <td></td>
+  <td><a href="https://docs.google.com/spreadsheets/d/1N_7oR7md5W4-cm_o_eM-f7l1znAkgDw-XhvdIkCfEE0/edit#gid=0">Bug report 04 [Fixed]</a></td>
 </tr>
 <tr>
   <td colspan="2">2.2. Sending the registration form with one empty required field</td>
@@ -88,7 +88,7 @@
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">2.3. Using combinations of valid and invalid values<br> for registration form's fields</td>
+  <td colspan="2">2.3. Using combinations of valid and invalid values for registration form's fields</td>
   <td>Passed</td>
   <td></td>
 </tr>
