@@ -137,16 +137,52 @@
   </tr>
 <tr>
     <td colspan="2"></td>
-    <td colspan="2">Product card creating with main fields</td>
+    <td colspan="2">Getting of the created product card (valid product id)</td>
     <td>Passed</td>
     <td colspan="2">Ссылка на баг-репорт ссылка на баг-репорт<a href="https://docs.google.com/spreadsheets/d/1meeA4eLDlrvXyTQUmsVTSgXwGKC_EpaXH5ZwLcABQ_E/edit#gid=0">Ссылка на баг-репорт</a></td>
 </tr>
 <tr>
     <td colspan="2"></td>
-    <td colspan="2">Product card creating with empty fields</td>
+    <td colspan="2">Sending GET request twice (idempotency)</td>
     <td>Passed</td>
     <td></td>
 </tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Getting a product card changed by a PUT request</td>
+    <td>Passed</td>
+    <td></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Getting a product card changed by a PATCH request</td>
+    <td>Passed</td>
+    <td></td>
+</tr>
+      
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">404</td>
+    <td></td>
+    <td></td>
+</tr>
+
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Getting a product using invalid ID (inappropriate data type)</td>
+    <td>Passed</td>
+    <td></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Getting a not existing product (valid ID)</td>
+    <td>Passed</td>
+    <td></td>
+</tr>
+
+
+
+
 
 
 
