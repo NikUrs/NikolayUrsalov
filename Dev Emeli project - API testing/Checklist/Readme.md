@@ -128,13 +128,13 @@
     <td colspan="2"></td>
     <td></td>
     <td colspan="2"></td>
-  </tr>
-  <tr>
+</tr>
+<tr>
     <td colspan="2"></td>
     <td colspan="2">Status 201</td>
     <td></td>
     <td colspan="2"></td>
-  </tr>
+</tr>
 <tr>
     <td colspan="2"></td>
     <td colspan="2">Getting of the created product card (valid product id)</td>
@@ -179,6 +179,101 @@
     <td>Passed</td>
     <td></td>
 </tr>
+
+
+<tr>
+    <td colspan="2"><b>Retrieve and view a list of products<br>GET <b></b>/wp-json/wc/v3/products/<b></td>
+    <td colspan="2"></td>
+    <td></td>
+    <td colspan="2"></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Status 201</td>
+    <td></td>
+    <td colspan="2"></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Getting the list of last added 20 product cards by default</td>
+    <td>Passed</td>
+    <td></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Getting a list with a limited number of products (max)</td>
+    <td>Passed</td>
+    <td></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Getting a list with a limited number of products (min)</td>
+    <td>Passed</td>
+    <td></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Paging through results using offset (valid value)</td>
+    <td>Passed</td>
+    <td></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Sorting the list in the descending order</td>
+    <td>Passed</td>
+    <td></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Sorting the list in the ascending order</td>
+    <td>Passed</td>
+    <td></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Limiting results to matching a string</td>
+    <td>Passed</td>
+    <td></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Limiting results to matching a status</td>
+    <td>Passed</td>
+    <td></td>
+</tr>  
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Exclude one specific product id</td>
+    <td>Passed</td>
+    <td></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Exclude more than one specific product id</td>
+    <td>Passed</td>
+    <td></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Include one specific product id</td>
+    <td>Passed</td>
+    <td></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Include more than one specific product id</td>
+    <td>Passed</td>
+    <td></td>
+</tr>
+
+      
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Sorting the list in the ascending order</td>
+    <td>Passed</td>
+    <td></td>
+</tr>
+
 
 
 
