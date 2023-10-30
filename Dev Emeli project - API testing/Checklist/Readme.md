@@ -122,6 +122,34 @@
     <td></td>
 </tr>
 
+
+<tr>
+    <td colspan="2"><b>Retrieve and view a specific product by ID: T<br>GET <b></b>/wp-json/wc/v3/products/<id><b></td>
+    <td colspan="2"></td>
+    <td></td>
+    <td colspan="2"></td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+    <td colspan="2">Status 201</td>
+    <td></td>
+    <td colspan="2"></td>
+  </tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Product card creating with main fields</td>
+    <td>Passed</td>
+    <td colspan="2">Ссылка на баг-репорт ссылка на баг-репорт<a href="https://docs.google.com/spreadsheets/d/1meeA4eLDlrvXyTQUmsVTSgXwGKC_EpaXH5ZwLcABQ_E/edit#gid=0">Ссылка на баг-репорт</a></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Product card creating with empty fields</td>
+    <td>Passed</td>
+    <td></td>
+</tr>
+
+
+
 <tr>
   <td colspan="2">4.2. Constructor of the level</td>
   <td>Pass</td>
