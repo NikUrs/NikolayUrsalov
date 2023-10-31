@@ -65,9 +65,9 @@
 
 <tr>
     <td colspan="2"></td>
-    <td colspan="2">Changing of the “Read-only” properties</td>
-    <td>Passed</td>
-    <td></td>
+    <td colspan="2">Changing of “Read-only” properties</td>
+    <td>Failed</td>
+    <td><a href="https://docs.google.com/spreadsheets/d/1s-HLKK0Ug2x-P5IL_dIPtLnXzWMwV52jxRlorZncO5Y/edit#gid=0">Bug report 08</a></td>
 </tr>
 <tr>
     <td colspan="2"></td>
