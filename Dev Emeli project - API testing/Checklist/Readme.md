@@ -92,9 +92,15 @@
 </tr>
 <tr>
     <td colspan="2"></td>
-    <td colspan="2">Short_description is more than 250 letters</td>
-    <td>Passed</td>
-    <td></td>
+    <td colspan="2">Name is more than 100 letters</td>
+    <td>Failed</td>
+    <td><a href="https://docs.google.com/spreadsheets/d/1ixMNOZafzP_OlzMEGBeDBFSbIhklWbzp1mwOaAp3gvA/edit#gid=0">Bug report 01</a></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Description is more than 600 letters</td>
+    <td>Failed</td>
+    <td><a href="https://docs.google.com/spreadsheets/d/1ifrCms__vEzXN4rIkwy7FWlK4t_Unt23hyPhRKl7FCA/edit#gid=0">Bug report 02</a></td>
 </tr>
 
 <tr>
