@@ -281,7 +281,18 @@
 </tr>
 
 
-
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Status 400</td>
+    <td></td>
+    <td colspan="2"></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Paging through results using offset (invalid value)</td>
+    <td>Passed</td>
+    <td></td>
+</tr>
 
 
 
