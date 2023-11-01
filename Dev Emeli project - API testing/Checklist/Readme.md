@@ -155,13 +155,13 @@
 </tr>
 <tr>
     <td colspan="2"></td>
-    <td colspan="2">Getting a product card changed by a PUT request</td>
+    <td colspan="2">Getting a product card changed by PUT request</td>
     <td>Passed</td>
     <td></td>
 </tr>
 <tr>
     <td colspan="2"></td>
-    <td colspan="2">Getting a product card changed by a PATCH request</td>
+    <td colspan="2">Getting a product card changed by PATCH request</td>
     <td>Passed</td>
     <td></td>
 </tr>
@@ -195,7 +195,7 @@
 </tr>
 <tr>
     <td colspan="2"></td>
-    <td colspan="2">Status 200</td>
+    <td colspan="2">Status 201</td>
     <td></td>
     <td colspan="2"></td>
 </tr>
@@ -226,8 +226,8 @@
 <tr>
     <td colspan="2"></td>
     <td colspan="2">Sorting the list in the descending order</td>
-    <td>Failed</td>
-    <td><a href="https://docs.google.com/spreadsheets/d/15tmvBmUuU9rNoihVAPA1KslElut87q4vOMZQHMII6vc/edit#gid=0">Bug report 10</a></td>
+    <td>Passed</td>
+    <td></td>
 </tr>
 <tr>
     <td colspan="2"></td>
