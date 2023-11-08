@@ -280,6 +280,12 @@
     <td></td>
 </tr>
 
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Using the combination of parameters</td>
+    <td>Passed</td>
+    <td></td>
+</tr>
 
 <tr>
     <td colspan="2"></td>
