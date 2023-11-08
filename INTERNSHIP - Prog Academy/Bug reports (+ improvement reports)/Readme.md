@@ -31,7 +31,7 @@
 	- <a href="https://docs.google.com/spreadsheets/d/1GUh7iq5HOQi4Y1UEAvH2Tiz7EjniMKI_TgmAdWLBZxA/edit#gid=0">Bug report_11 [API]. JSON data in the response body isn't matched with the technical task after when one invite code is used more than 5 times.</a>
 
 - <b>"Registration" page</b><br>
-	- <a href="https://docs.google.com/spreadsheets/d/1Op9simmZOpO94Q1hzNhHiwZltUIoAVptokHhobO7dJQ/edit#gid=0">Bug report 09 [API]. JSON data in the response body isn't matched with the technical task after sending the argument with an invalid value for the "name" key.</a>
+	- <a href="https://docs.google.com/spreadsheets/d/1yyTTQz5-Sj18Bj5u6iT-W3JxO7q80B_doJE2B71GNdA/edit#gid=0">Bug report 09 [API]. JSON data in the response body isn't matched with the technical task after sending the argument with an invalid value for the "name" key.</a>
 
 - <b>Microservice for certificate generation</b><br>
 	- <a href="https://docs.google.com/spreadsheets/d/1C4FoBuFj0OiFzjXCQnl48n4spWaAUs-50GRkPI4_UoY/edit#gid=0">Bug-report 20 [Java]. A generated certificate isn’t shown in the HTTP response after sending GET request with a valid unique certificate id.</a><br>
