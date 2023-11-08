@@ -10,6 +10,7 @@
 	- <a href="https://docs.google.com/spreadsheets/d/1RLyIneYOWRytbx3LyRzOx9SPPTmG_Q41-LPbeXGAhew/edit?usp=drive_link">Bug report 01 [Java]. The success page is shown after sending the registration form with the reused email address.</a><br>
 	- <a href="https://docs.google.com/spreadsheets/d/1K18xAxBUOHqcjI4q2lWE5ApOid_nMb4KOtb_z22IVS0/edit?usp=drive_link">Bug report 03 [React]. The "Fist name" field is got the focus state after clicking on the "Surname" label. </a><br>
 	- <a href="https://docs.google.com/spreadsheets/d/1faetb7STSzvGPd4tw0xcwHl1DdQNnbaJaeedGQMnYMM/edit?usp=drive_link">Bug report 06 [Java]. Status code 500 is shown in the HTTP response after an user opens the "Registration" page via direct link and sends a filled form. </a><br>
+ 	- <a href="https://docs.google.com/spreadsheets/d/1faetb7STSzvGPd4tw0xcwHl1DdQNnbaJaeedGQMnYMM/edit?usp=drive_link">Bug report 019 [Java]. The HTTP status code 500 is shown when the network connection is restored while sending the filled registration form.</a><br>
 	- <a href="https://docs.google.com/spreadsheets/d/1N_7oR7md5W4-cm_o_eM-f7l1znAkgDw-XhvdIkCfEE0/edit?usp=drive_link">The valid data is shown in the "Email" field with the validation error message.</a><br>
 
 - "Success" page<br>
