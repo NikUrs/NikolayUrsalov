@@ -32,6 +32,9 @@
 
 - <b>"Registration" page</b><br>
 	- <a href="https://docs.google.com/spreadsheets/d/1yyTTQz5-Sj18Bj5u6iT-W3JxO7q80B_doJE2B71GNdA/edit#gid=0">Bug report 09 [API]. JSON data in the response body isn't matched with the technical task after sending the argument with an invalid value for the "name" key.</a>
+	- <a href="https://docs.google.com/spreadsheets/d/1Op9simmZOpO94Q1hzNhHiwZltUIoAVptokHhobO7dJQ/edit#gid=0">Bug report 09 [cURL]. JSON data in the response body isn't matched with the technical task after sending the argument with an invalid value for the "name" key.</a>
+	- <a href="https://docs.google.com/spreadsheets/d/1naco2jsyGZx9750tzzymmdFa2raWN0kwfsmNIvClzOY/edit#gid=0">Bug report 10 [API]. JSON data in the response body isn't matched with the technical task after sending invalid data in the "inviteCode" key.</a>
+ 	- <a href="https://docs.google.com/spreadsheets/d/141pa54rj37QGMvB7XWAs5eqich42nNuazcUViVFIrVQ/edit#gid=0">Bug report 10 [cURL]. JSON data in the response body isn't matched with the technical task after sending the argument with an invalid value for the "inviteCode" key.</a>
 
 - <b>Microservice for certificate generation</b><br>
 	- <a href="https://docs.google.com/spreadsheets/d/1C4FoBuFj0OiFzjXCQnl48n4spWaAUs-50GRkPI4_UoY/edit#gid=0">Bug-report 20 [Java]. A generated certificate isn’t shown in the HTTP response after sending GET request with a valid unique certificate id.</a><br>
