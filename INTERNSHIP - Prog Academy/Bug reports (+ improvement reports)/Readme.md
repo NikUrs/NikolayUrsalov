@@ -26,10 +26,10 @@
 - Bug report 16.1<a href="https://docs.google.com/spreadsheets/d/1pkZ4mRKTQcyhCtZA4XyRZunuFaav7PJrlcMguUsSp8w/edit#gid=0"> The error message isn’t shown with an example of the valid format of data after sending more than one phone number with different length.</a><br>
 
 <h4>API</h4>
-- <b>"Invite" page</b>
+- <b>"Invite" page</b><br>
 	- <a href="https://docs.google.com/spreadsheets/d/1GUh7iq5HOQi4Y1UEAvH2Tiz7EjniMKI_TgmAdWLBZxA/edit#gid=0">Bug report_11 [API]. JSON data in the response body isn't matched with the technical task after when one invite code is used more than 5 times.</a>
 
-- <b>Microservice for certificate generation</b>
+- <b>Microservice for certificate generation</b><br>
 	- <a href="https://docs.google.com/spreadsheets/d/1C4FoBuFj0OiFzjXCQnl48n4spWaAUs-50GRkPI4_UoY/edit#gid=0">Bug-report 20 [Java]. A generated certificate isn’t shown in the HTTP response after sending GET request with a valid unique certificate id.</a><br>
 	- <a href="https://docs.google.com/spreadsheets/d/1P_vW4PFKdfYa5jMmCwbNwuSE7tOH13RZ6ep8YE1Y7-A/edit#gid=0">Bug-report 20 [cURL]. A generated certificate isn’t shown in the HTTP response after sending GET request with a valid unique certificate id.</a><br>
 	- <a href="https://docs.google.com/spreadsheets/d/1D9nFj9Bki4WfvQsgVI_JmcvAiwqfhOz2_iEQ4J2kObU/edit#gid=0">Bug-report 21 [Java]. The HTTP response body is shown with the HTML document after sending a GET request with an invalid certificate id.</a><br>
