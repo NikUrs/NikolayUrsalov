@@ -26,6 +26,7 @@
 - Bug report 16.1<a href="https://docs.google.com/spreadsheets/d/1pkZ4mRKTQcyhCtZA4XyRZunuFaav7PJrlcMguUsSp8w/edit#gid=0"> The error message isn’t shown with an example of the valid format of data after sending more than one phone number with different length.</a><br>
 
 <h4>API</h4>
+
 - <b>"Invite" page</b><br>
 	- <a href="https://docs.google.com/spreadsheets/d/1GUh7iq5HOQi4Y1UEAvH2Tiz7EjniMKI_TgmAdWLBZxA/edit#gid=0">Bug report_11 [API]. JSON data in the response body isn't matched with the technical task after when one invite code is used more than 5 times.</a>
 
