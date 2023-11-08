@@ -28,15 +28,21 @@
 <h4>API</h4>
 <a href="https://docs.google.com/spreadsheets/d/1GUh7iq5HOQi4Y1UEAvH2Tiz7EjniMKI_TgmAdWLBZxA/edit#gid=0">Bug report_11 [API]. JSON data in the response body isn't matched with the technical task after when one invite code is used more than 5 times.</a>
 
+<h2>Microservice for certificate generation</h2>
+
+- <a href="https://docs.google.com/spreadsheets/d/1C4FoBuFj0OiFzjXCQnl48n4spWaAUs-50GRkPI4_UoY/edit#gid=0">Bug-report 20 [Java]. A generated certificate isn’t shown in the HTTP response after sending GET request with a valid unique certificate id.</a><br>
+- <a href="https://docs.google.com/spreadsheets/d/1P_vW4PFKdfYa5jMmCwbNwuSE7tOH13RZ6ep8YE1Y7-A/edit#gid=0">Bug-report 20 [cURL]. A generated certificate isn’t shown in the HTTP response after sending GET request with a valid unique certificate id.</a><br>
+- <a href="https://docs.google.com/spreadsheets/d/1D9nFj9Bki4WfvQsgVI_JmcvAiwqfhOz2_iEQ4J2kObU/edit#gid=0">Bug-report 21 [Java]. The HTTP response body is shown with the HTML document after sending a GET request with an invalid certificate id.</a><br>
+- <a href="https://docs.google.com/spreadsheets/d/1Oq_qTR5i6T88uVmPLlQ2v0oDIuoPrUn0SyGr_Nn-_wI/edit#gid=0">Bug-report 21 [cURL]. The HTTP response body is shown with the HTML document after sending a GET request with an invalid certificate id.</a><br>
+
 <h4>GUI</h4>
 
 - <a href="https://docs.google.com/spreadsheets/d/12KEEJFddZtl741j8TxCts92ghMKKscoNiEowJAWGCqc/edit?usp=drive_link">Bug Report 006 [Front-end-04]. The registration form fields are shifted in relation to each other on mobile screens with a width range of 575-360.</a>
 
 - <a href="https://docs.google.com/spreadsheets/d/1L49IR-pGNUU1iiRUX3gF39JA6HDmMazQv_KX39uTFUw/edit?usp=drive_link">Bug Report 007 [Front-end-05]. The text of label elements is cut on different mobile screens with the width in the range 1300-576.</a>
 
-<h4>Improvement reports</h4>
 
-- <a href="https://docs.google.com/spreadsheets/d/1jPh2PQF08kHg0HAhLqY6ms1YFzb-_9nNB978_ZXBXdM/edit#gid=0">001. The HTTP response status isn't matched with REST API standard after sending the filled form with valid data.</a><br>
+<h4>Improvement reports</h4>
 
 - <a href="https://docs.google.com/spreadsheets/d/1ZQHbYzH-a9EcmMUyRbbV89DUgfnDwnxJpU0L1RcrZ3E/edit#gid=0">002. The user’s IP isn’t blocked on 1 hour after the sending an invalid invite code more than 10 times.</a><br>
 
