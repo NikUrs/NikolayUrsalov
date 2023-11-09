@@ -303,6 +303,44 @@
 
 
 
+<tr>
+    <td colspan="2"><b>Retrieve 5 and view a specific product by ID: <br>GET <b></b>/wp-json/wc/v3/products/<id><b></td>
+    <td colspan="2"></td>
+    <td></td>
+    <td colspan="2"></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Status 200</td>
+    <td></td>
+    <td colspan="2"></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Getting of the created product card (valid product id)</td>
+    <td>Passed</td>
+    <td colspan="2">Ссылка на баг-репорт ссылка на баг-репорт<a href="https://docs.google.com/spreadsheets/d/1meeA4eLDlrvXyTQUmsVTSgXwGKC_EpaXH5ZwLcABQ_E/edit#gid=0">Ссылка на баг-репорт</a></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Sending GET request twice (idempotency)</td>
+    <td>Passed</td>
+    <td></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Getting a product card changed by PUT request</td>
+    <td>Passed</td>
+    <td></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Getting a product card changed by PATCH request</td>
+    <td>Passed</td>
+    <td></td>
+</tr>
+
+
 </table>
 
 
