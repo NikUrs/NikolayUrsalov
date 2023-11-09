@@ -30,6 +30,7 @@
 
 - <b>"Invite" page</b><br>
 	- <a href="https://docs.google.com/spreadsheets/d/1GUh7iq5HOQi4Y1UEAvH2Tiz7EjniMKI_TgmAdWLBZxA/edit#gid=0">Bug report_11 [API]. JSON data in the response body isn't matched with the technical task after when one invite code is used more than 5 times.</a>
+	- <a href="https://docs.google.com/spreadsheets/d/1ykNVeGb1033v3MB0KTcfaHVsQG9rKww6i3kR4MmLtiU/edit#gid=0">Bug report_11 [cURL]. JSON data in the response body isn't matched with the technical task after when one invite code is used more than 5 times.</a>
 
 - <b>"Registration" page</b><br>
 	- <a href="https://docs.google.com/spreadsheets/d/1yyTTQz5-Sj18Bj5u6iT-W3JxO7q80B_doJE2B71GNdA/edit#gid=0">Bug report 09 [API]. JSON data in the response body isn't matched with the technical task after sending the argument with an invalid value for the "name" key.</a>
