@@ -130,7 +130,7 @@
 
 
 <tr>
-    <td colspan="2"><b>Retrieve and view a specific product by ID: <br>GET <b></b>/wp-json/wc/v3/products/<id><b></td>
+    <td colspan="2"><b>Retrieve and view a specific product by ID: <br>GET /wp-json/wc/v3/products/<id></id>b></td>
     <td colspan="2"></td>
     <td></td>
     <td colspan="2"></td>
