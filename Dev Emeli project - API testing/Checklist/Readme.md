@@ -296,8 +296,8 @@
 <tr>
     <td colspan="2"></td>
     <td colspan="2">Paging through results using offset (invalid value)</td>
-    <td>Passed</td>
-    <td></td>
+    <td>Failed</td>
+    <td><a href="https://docs.google.com/spreadsheets/d/1R3h1dh49l95YSWCKCDpOuw4y_7FuM9XDgff7LgVyTFM/edit#gid=0">Bug report 03</a></td>
 </tr>
 
 
