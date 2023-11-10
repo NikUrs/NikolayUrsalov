@@ -226,8 +226,8 @@
 <tr>
     <td colspan="2"></td>
     <td colspan="2">Sorting the list in the descending order</td>
-    <td>Passed</td>
-    <td></td>
+    <td>Failed</td>
+    <td><a href="https://docs.google.com/spreadsheets/d/15tmvBmUuU9rNoihVAPA1KslElut87q4vOMZQHMII6vc/edit#gid=0">Bug report 10</a></td>
 </tr>
 <tr>
     <td colspan="2"></td>
