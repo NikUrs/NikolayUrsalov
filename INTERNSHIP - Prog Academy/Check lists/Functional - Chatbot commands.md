@@ -29,8 +29,8 @@
 </tr>
 <tr>
   <td colspan="2">1.1. Phone number with amount of digits on the range 9-15</td>
-  <td>Passed</td>
-  <td></td>
+  <td>Failed</td>
+  <td><a href="https://docs.google.com/spreadsheets/d/1LWxdabb_98eGmV4hBbAjI-q84lk4ksIeNQY5U4NrtlU/edit#gid=0">Bug report 15</a></td>
 </tr>
 <tr>
   <td colspan="2">1.2. With "+" character at the beginning</td>
