@@ -206,6 +206,13 @@
   <td>Failed</td>
   <td><a href="https://docs.google.com/spreadsheets/d/1uOoqdZPZafw1FRrFuZ5T7Wd3EeA6_8nPSSRIfzM31yk/edit#gid=0">Bug report 12</a></td>
 </tr>
+</tr>
+    <tr>
+  <td colspan="2">Send an empty field</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+
 
 <tr>
   <td colspan="2"><h3> /certificate </td>
