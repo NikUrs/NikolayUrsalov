@@ -135,25 +135,59 @@
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">Send an invalid email address</td>
+  <td colspan="2"><b>Send an invalid email address</b></td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;2.3. Email address without @ character</td>
+  <td colspan="2">2.3. Email address without @ character</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;2.4.2. Inappropriate data types for each field</td>
+  <td colspan="2">2.4. Email address without dot in the domain name part</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;2.4.3. The first letter is lowercase for “Name” fields</td>
+  <td colspan="2">2.5. Email address without the domain name part</td>
   <td>Passed</td>
   <td></td>
 </tr>
+<tr>
+  <td colspan="2">2.6. Email address without the username part</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">2.7. Email address with special characters (except _ and - characters)</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">2.8. Email address with numbers in the domain name part</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">2.9. Email address in CamelCase format</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">2.10. Email address with a space inside</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">2.11. Email address with one of the follow characters in the start: @.-_</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+
+
+
+    
 <tr>
   <td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;2.4.4. The first letter is lowercase for the “Surname” fields</td>
   <td>Passed</td>
