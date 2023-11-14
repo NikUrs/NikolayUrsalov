@@ -28,92 +28,83 @@
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">1.2. Phone number with amount of digits on the range 9-15</td>
+  <td colspan="2">1.1. Phone number with amount of digits on the range 9-15</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">1.3. With "+" character in the start</td>
+  <td colspan="2">1.2. With "+" character in the start</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">1.4. With 00 number in the start</td>
+  <td colspan="2">1.3. With 00 number in the start</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">1.5. With 0 in the start</td>
+  <td colspan="2">1.4. With 0 in the start</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">1.6. Send one invalid phone number</td>
+  <td colspan="2"><b>Send one invalid phone number</b></td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">1.7. Phone number with 8 and 16 digits</td>
+  <td colspan="2">1.5. Phone number with 8 and 16 digits</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">1.8. Phone number with special characters: ()-</td>
+  <td colspan="2">1.6. Phone number with special characters: ()-</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">1.9. Using Latin, Cyrillic alphabet</td>
+  <td colspan="2">1.7. Using Latin, Cyrillic alphabet</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">1.9. Phone number with a space inside</td>
+  <td colspan="2">1.8. Phone number with a space inside</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+
+<tr>
+  <td colspan="2"><b>Send more than one phone number (positive scenario)</b></td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">1.10. Send more than one phone number (positive scenario)</td>
+  <td colspan="2">1.9. Send two phone numbers separated by a comma</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">1.11. Phone number with a space inside</td>
+  <td colspan="2">1.10. Send three phone numbers separated by a comma</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">1.12. Send more than one phone number (positive scenario)</td>
+  <td colspan="2"><b>Send more than one phone number (negative scenario)</b></td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">1.13. Send two phone numbers, that are separeted by a comma</td>
+  <td colspan="2">1.11. Send one valid and one invalid phone numbers</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">1.14. Send three phone numbers, that are separeted by a comma</td>
+  <td colspan="2">1.12. Send two phone numbers separated by a space</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">1.15. Send more than one phone number (negative scenario)</td>
-  <td>Passed</td>
-  <td></td>
-</tr>
-<tr>
-  <td colspan="2">1.16. Send one valid and one invalid phone numbers</td>
-  <td>Passed</td>
-  <td></td>
-</tr>
-<tr>
-  <td colspan="2">1.17. Send two phone numbers, that are separeted by a space</td>
-  <td>Passed</td>
-  <td></td>
-</tr>
-<tr>
-  <td colspan="2">1.18. Send two phone numbers with different combinations of format</td>
+  <td colspan="2">1.13. Send two phone numbers with different combinations of input</td>
   <td>Passed</td>
   <td></td>
 </tr>
