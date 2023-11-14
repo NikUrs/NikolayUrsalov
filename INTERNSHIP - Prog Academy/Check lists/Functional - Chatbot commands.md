@@ -33,17 +33,22 @@
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">1.2. With "+" character in the start</td>
+  <td colspan="2">1.2. With "+" character at the beginning</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">1.3. With 00 number in the start</td>
+  <td colspan="2">1.3. Without "+" character at the beginning</td>
+  <td>Failed</td>
+  <td><a href="https://docs.google.com/spreadsheets/d/1-PsMUQ-eoBH3yQ_-2lPkC6U99ULIt5nGg-VgJOunlzc/edit#gid=0">Bug report 14</a></td>
+</tr>
+<tr>
+  <td colspan="2">1.4. With 00 number at the beginning</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">1.4. With 0 in the start</td>
+  <td colspan="2">1.5. With 0 in the start</td>
   <td>Passed</td>
   <td></td>
 </tr>
@@ -207,7 +212,7 @@
   <td><a href="https://docs.google.com/spreadsheets/d/1uOoqdZPZafw1FRrFuZ5T7Wd3EeA6_8nPSSRIfzM31yk/edit#gid=0">Bug report 12</a></td>
 </tr>
 </tr>
-    <tr>
+<tr>
   <td colspan="2">Send an empty field</td>
   <td>Passed</td>
   <td></td>
@@ -227,26 +232,44 @@
 <tr>
   <td colspan="2">Send an invalid id (inappropriate data types)</td>
   <td>Failed</td>
-  <td><a href="https://docs.google.com/spreadsheets/d/1bXGWtN_nC8rS-nqif5d7xvoF2fzvuHbQT6AbdUL1oWo/edit#gid=0">Bug report 13</a></td>
+  <td><a href="https://docs.google.com/spreadsheets/d/104eX6WT6m80TJZTidjQsuod6LTXvn7woE9lS4wCT76g/edit#gid=0">Bug report 13</a></td>
 </tr>
-    <tr>
+<tr>
   <td colspan="2">id number of certificate that doesn’t exist</td>
   <td>Passed</td>
   <td></td>
 </tr>
-    <tr>
+<tr>
   <td colspan="2">Send an empty field</td>
   <td>Passed</td>
   <td></td>
 </tr>
 
 
-    
+
 <tr>
-  <td colspan="2">Send an invalid data (inappropriate data types)</td>
-  <td>Failed</td>
-  <td><a href="https://docs.google.com/spreadsheets/d/1uOoqdZPZafw1FRrFuZ5T7Wd3EeA6_8nPSSRIfzM31yk/edit#gid=0">Bug report 12</a></td>
+  <td colspan="2"><h3> /certificate </td>
+  <td></td>
+  <td></td>
 </tr>
+<tr>
+  <td colspan="2">Send a valid id of a generated certificate</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">id number of certificate that doesn’t exist</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">Send an empty field</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+
+    
+
 
    
 
