@@ -23,7 +23,7 @@
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">1.1. Send one valid phone number</td>
+  <td colspan="2"><b>Sending one valid phone number</b></td>
   <td>Passed</td>
   <td></td>
 </tr>
