@@ -176,7 +176,7 @@
 		- email address without dot in the domain name part<br>
 		- email address without domain name part<br>
 		- email address without username<br>
-		- email address with special characters (except -_)<br>
+		- email address with special characters (except _ and - characters) <br>
 		- email address with numbers in domain name part	<br>
 		- email address with CamelCase<br>
 		- email address with a space inside<br>
