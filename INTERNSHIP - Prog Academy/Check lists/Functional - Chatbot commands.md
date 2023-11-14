@@ -297,7 +297,7 @@
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">4.1. Generate the certificate</td>
+  <td colspan="2">4.1. Generate a certificate</td>
   <td>Passed</td>
   <td></td>
 </tr>
