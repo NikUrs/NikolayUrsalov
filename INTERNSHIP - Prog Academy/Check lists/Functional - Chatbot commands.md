@@ -115,32 +115,32 @@
 
 
 <tr>
-  <td colspan="2"><h3>2. "Registration" page</h3></td>
+  <td colspan="2"><h3>2. /set_email</td>
   <td></td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">2.1. Sending the registration form with valid values</td>
+  <td colspan="2"><b>Send a valid email address</b></td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">2.2. Sending the registration form with one empty required field</td>
+  <td colspan="2">2.1. Email address with numbers in the username part</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">2.3. using the combination of valid and invalid values<br> for registration form's fields</td>
+  <td colspan="2">2.2. Email address with -_ characters in the username part</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">2.4. Using invalid values for each field</td>
+  <td colspan="2">Send an invalid email address</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;2.4.1. Empty field</td>
+  <td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;2.3. Email address without @ character</td>
   <td>Passed</td>
   <td></td>
 </tr>
