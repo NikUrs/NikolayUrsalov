@@ -59,8 +59,8 @@
 </tr>
 <tr>
   <td colspan="2">1.5. Phone number with 8 and 16 digits</td>
-  <td>Passed</td>
-  <td></td>
+  <td>Failed</td>
+  <td><a href="https://docs.google.com/spreadsheets/d/1KDmJS8DEpiPMvcadH69OBqGh5TLdhZdceNJXT9O6nr4/edit#gid=0">Bug report 16</a></td>
 </tr>
 <tr>
   <td colspan="2">1.6. Phone number with special characters: ()-</td>
