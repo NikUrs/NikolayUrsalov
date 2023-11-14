@@ -18,7 +18,7 @@
 </tr>
 
 <tr>
-  <td colspan="2"><h3>/set_phone</h3></td>
+  <td colspan="2"><h3>1. /set_phone</h3></td>
   <td></td>
   <td></td>
 </tr>
