@@ -186,8 +186,62 @@
 </tr>
 
 
+<tr>
+  <td colspan="2"><h3> /invite_group_new </td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">Send a valid data</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">Check a received invite link</td>
+  <td>Skipped</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">Send an invalid data (inappropriate data types)</td>
+  <td>Failed</td>
+  <td><a href="https://docs.google.com/spreadsheets/d/1uOoqdZPZafw1FRrFuZ5T7Wd3EeA6_8nPSSRIfzM31yk/edit#gid=0">Bug report 12</a></td>
+</tr>
+
+<tr>
+  <td colspan="2"><h3> /certificate </td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">Send a valid id of a generated certificate</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">Send an invalid id (inappropriate data types)</td>
+  <td>Failed</td>
+  <td><a href="https://docs.google.com/spreadsheets/d/1bXGWtN_nC8rS-nqif5d7xvoF2fzvuHbQT6AbdUL1oWo/edit#gid=0">Bug report 13</a></td>
+</tr>
+    <tr>
+  <td colspan="2">id number of certificate that doesn’t exist</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+    <tr>
+  <td colspan="2">Send an empty field</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+
 
     
+<tr>
+  <td colspan="2">Send an invalid data (inappropriate data types)</td>
+  <td>Failed</td>
+  <td><a href="https://docs.google.com/spreadsheets/d/1uOoqdZPZafw1FRrFuZ5T7Wd3EeA6_8nPSSRIfzM31yk/edit#gid=0">Bug report 12</a></td>
+</tr>
+
+   
 
 
 </table>
