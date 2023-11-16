@@ -221,7 +221,7 @@
 10- /users_list<br>
 	- check the existing list of users<br>
 	- checking the created group during one "session"<br>
-
+ 
 <h4>Test-cases</h4>
 - <a href="https://docs.google.com/spreadsheets/d/18hdKZYyNR6_YuQIqBOobO_dhKbYjztsd/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Check the use of "set_phone" command.</a><br>
 
