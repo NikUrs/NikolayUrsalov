@@ -15,7 +15,7 @@
    	- <a href="https://docs.google.com/spreadsheets/d/13O-Wrk73KeLTE5yEdl677GMIvwOiUI4IHa1bACMiLXQ/edit#gid=0">Bug report 08. The type of "Phone" field contains no useful part of the functionality.</a>
 
 - "Success" page<br>
-	- <a href="https://docs.google.com/spreadsheets/d/1lEdpjmBqe1bI956ex78mkJ58upFuzl-j71OrpFXDtts/edit#gid=0">Bug report 18 [Java]. The validation error message isn’t shown after opening the “Success” page via the direct link.</a>
+	- <a href="https://docs.google.com/spreadsheets/d/1lEdpjmBqe1bI956ex78mkJ58upFuzl-j71OrpFXDtts/edit#gid=0">Bug report 22 [Java]. The validation error message isn’t shown after opening the “Success” page via the direct link.</a>
 
 <h4>Chatbot commands</h4>
 - Bug report 12.<a href="https://docs.google.com/spreadsheets/d/1uOoqdZPZafw1FRrFuZ5T7Wd3EeA6_8nPSSRIfzM31yk/edit#gid=0"> The validation error message is shown with program code after sending not valid values when using the “/invite_group_new” command.</a><br>
