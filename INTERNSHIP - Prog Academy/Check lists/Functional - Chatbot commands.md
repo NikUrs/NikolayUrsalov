@@ -99,9 +99,9 @@
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">1.11. Send one valid and one invalid phone numbers</td>
-  <td>Passed</td>
-  <td></td>
+  <td colspan="2">1.11. Send two valid phone numbers with different lengths</td>
+  <td>Failed</td>
+  <td><a href="https://docs.google.com/spreadsheets/d/1pkZ4mRKTQcyhCtZA4XyRZunuFaav7PJrlcMguUsSp8w/edit#gid=0">Bug report 23</a></td>
 </tr>
 <tr>
   <td colspan="2">1.12. Send two valid phone numbers separated by a space</td>
@@ -109,7 +109,7 @@
   <td><a href="https://docs.google.com/spreadsheets/d/18BM_tOISc-QJPvabkgWjbfXBxhfvuxom9OhnQs_52oE/edit#gid=0">Bug report 18</a></td>
 </tr>
 <tr>
-  <td colspan="2">1.13. Send two phone numbers with different combinations of input</td>
+  <td colspan="2">1.13. Send two phone numbers with different combinations (valid-invalid) of input</td>
   <td>Passed</td>
   <td></td>
 </tr>
