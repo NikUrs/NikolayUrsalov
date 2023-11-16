@@ -63,14 +63,14 @@
   <td><a href="https://docs.google.com/spreadsheets/d/1KDmJS8DEpiPMvcadH69OBqGh5TLdhZdceNJXT9O6nr4/edit#gid=0">Bug report 16</a></td>
 </tr>
 <tr>
-  <td colspan="2">1.6. Phone number with special characters: ()-</td>
-  <td>Passed</td>
-  <td></td>
+  <td colspan="2">1.6. Phone number with special characters (except +)</td>
+  <td>Failed</td>
+  <td><a href="https://docs.google.com/spreadsheets/d/1kR6ZvV08HERBC4XqahQV5XAGMRJsaiIm3Y7p4fFOWsU/edit#gid=0">Bug report 17</a></td>
 </tr>
 <tr>
   <td colspan="2">1.7. Using Latin, Cyrillic alphabet</td>
-  <td>Passed</td>
-  <td></td>
+  <td>Failed</td>
+  <td><a href="https://docs.google.com/spreadsheets/d/1kR6ZvV08HERBC4XqahQV5XAGMRJsaiIm3Y7p4fFOWsU/edit#gid=0">Bug report 17</a></td>
 </tr>
 <tr>
   <td colspan="2">1.8. Phone number with a space inside</td>
