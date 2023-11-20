@@ -1,4 +1,66 @@
 
+<table>
+
+  <tr>
+    <th colspan="2"><h3>Checking</h3></th>
+    <th><h3>Status</h3></th>
+    <th><h3>Bug / Comments</h3></th>
+  </tr>
+
+  <tr>
+    <td colspan="2"><h3>1. "Invite" page</h3></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">1.1. Sending a valid invite code</td>
+    <td>Passed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">1.2. Sending an invalid invite code</td>
+    <td>Passed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">1.3. Sending empty field</td>
+    <td>Passed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">1.4. Sending a valid invite code in CamelCase</td>
+    <td>Passed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">1.5. Invite code with a space</td>
+    <td>Passed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">1.6. Inappropriate data types</td>
+    <td>Passed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">1.7. Replace an uppercase letter with a lowercase letter and vice versa</td>
+    <td>Passed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">1.8. Use an expired invite code</td>
+    <td>Passed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">1.9. Validation error message</td>
+    <td>Passed</td>
+    <td></td>
+  </tr>
+
+</table>
+
+
 <h4>Check list</h4>
 
 - All the links are valid and lead to correct pages<br>
