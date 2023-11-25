@@ -33,5 +33,5 @@
 - <a href="https://docs.google.com/spreadsheets/d/1VImL_uyHGENAJAlxgjA6kVCOoAUc1ytI/edit#gid=2141974348">Тест-кейс. Сортировка таблиц</a><br>
 
 - <a href="https://docs.google.com/spreadsheets/d/1t2ycTAZHLR3j_cuQvnG9Y6CsbZ3t41GG/edit?usp=share_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-кейс - Добавление арендатора</a>
-  - <a href="https://docs.google.com/spreadsheets/d/1OH6sNuRtzEpMs-NCfWax8m8eW3ZZKA7a/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-кейс - Добавление арендатора</a>
+  - <a href="https://docs.google.com/spreadsheets/d/1OH6sNuRtzEpMs-NCfWax8m8eW3ZZKA7a/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-кейс - Добавление арендатора (негативные сценарии)</a>
 
