@@ -38,5 +38,5 @@
   - <a href="https://docs.google.com/spreadsheets/d/1OH6sNuRtzEpMs-NCfWax8m8eW3ZZKA7a/edit?rtpof=true#gid=2141974348">Тест-кейс 2.1 - Валидация формы добавления счётчика (негативные сценарии)</a>
 - <a href="https://docs.google.com/spreadsheets/d/1YTiISSJmuCzBnwf_wfE4YKboljB5_afm/edit#gid=2141974348">Тест-кейс 3 - Валидация формы добавления / редактирования начисления (на стороне клиента)</a>
   - <a href="https://docs.google.com/spreadsheets/d/1yvCiLcfRLj4Sys1hFC1-4eIQ1g246kjD/edit#gid=2141974348">Тест-кейс 3.1 - Валидация формы добавления / редактирования начисления (негативные сценарии)</a>
-- <a href="https://docs.google.com/spreadsheets/d/12TBQ_BeQrFaZ1ThKMQtYh-vdeCOrqJkT/edit#gid=2141974348">Тест-кейс 3 - Валидация формы добавления / редактирования начисления (на стороне клиента)</a>
+- <a href="https://docs.google.com/spreadsheets/d/12TBQ_BeQrFaZ1ThKMQtYh-vdeCOrqJkT/edit#gid=2141974348">Тест-кейс - Поиск по таблицам ("Счётчики", "Арендаторы")</a>
 
