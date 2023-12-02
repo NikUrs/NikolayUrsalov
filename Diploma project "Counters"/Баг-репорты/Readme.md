@@ -38,10 +38,11 @@
   - <a href="https://docs.google.com/spreadsheets/d/1OH6sNuRtzEpMs-NCfWax8m8eW3ZZKA7a/edit?rtpof=true#gid=2141974348">Тест-кейс 2.1 - Валидация формы добавления счётчика (негативные сценарии)</a>
 - <a href="https://docs.google.com/spreadsheets/d/1YTiISSJmuCzBnwf_wfE4YKboljB5_afm/edit#gid=2141974348">Тест-кейс 3 - Валидация формы добавления / редактирования начисления (на стороне клиента)</a>
   - <a href="https://docs.google.com/spreadsheets/d/1yvCiLcfRLj4Sys1hFC1-4eIQ1g246kjD/edit#gid=2141974348">Тест-кейс 3.1 - Валидация формы добавления / редактирования начисления (негативные сценарии)</a>
+- <a href="https://docs.google.com/spreadsheets/d/1KAt6vzC2y003D5rNw2nUmM_lbrhbI_3r/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-кейс - Оплата начисления / начислений</a>
 - <a href="https://docs.google.com/spreadsheets/d/1cE9AFwRdmIReIbX_qur-Ju-Bby1mguXV/edit#gid=2141974348">Тест-кейс - добавление новой группы для счётчиков</a>
 - <a href="https://docs.google.com/spreadsheets/d/12TBQ_BeQrFaZ1ThKMQtYh-vdeCOrqJkT/edit#gid=2141974348">Тест-кейс - Поиск по таблицам ("Счётчики", "Арендаторы")</a>
 - <a href="https://docs.google.com/spreadsheets/d/1rjx8D9PeeiFfpELSHPYLlzACDZtYCvgh/edit#gid=2141974348">Тест-кейс - Удаление счётчика / счётчиков</a>
-- <a href="https://docs.google.com/spreadsheets/d/1KAt6vzC2y003D5rNw2nUmM_lbrhbI_3r/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-кейс - Оплата начисления / начислений</a>
+
 
 
 
