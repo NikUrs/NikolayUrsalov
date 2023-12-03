@@ -30,21 +30,27 @@
 Тест-кейсы<br>
 
 - <a href="https://docs.google.com/spreadsheets/d/1hib8LpEAOr4gmSsq7upmK-Vmk9yh3P2U/edit#gid=2141974348">Тест-кейс 01. Навигация по страницам веб-приложения</a><br>
-- <a href="https://docs.google.com/spreadsheets/d/1VImL_uyHGENAJAlxgjA6kVCOoAUc1ytI/edit#gid=2141974348">Тест-кейс. Сортировка таблиц</a><br>
+
+- <a href="https://docs.google.com/spreadsheets/d/1WfyMXtksw3sy-CsqSHqcZWn7Xev-dbp9/edit#gid=2141974348">Тест-кейс - Форма добавления / редактирования счётчика</a>
+  - <a href="https://docs.google.com/spreadsheets/d/1OH6sNuRtzEpMs-NCfWax8m8eW3ZZKA7a/edit?rtpof=true#gid=2141974348">Тест-кейс 2.1 - Валидация формы добавления счётчика (негативные сценарии)</a>
+- <a href="https://docs.google.com/spreadsheets/d/1cE9AFwRdmIReIbX_qur-Ju-Bby1mguXV/edit#gid=2141974348">Тест-кейс - добавление новой группы для счётчиков</a>
+
+
 
 - <a href="https://docs.google.com/spreadsheets/d/1t2ycTAZHLR3j_cuQvnG9Y6CsbZ3t41GG/edit?usp=share_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-кейс - Добавление арендатора</a>
   - <a href="https://docs.google.com/spreadsheets/d/1OH6sNuRtzEpMs-NCfWax8m8eW3ZZKA7a/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-кейс - Добавление арендатора (негативные сценарии)</a>
-- <a href="https://docs.google.com/spreadsheets/d/1WfyMXtksw3sy-CsqSHqcZWn7Xev-dbp9/edit#gid=2141974348">Тест-кейс - Форма добавления / редактирования счётчика</a>
-  - <a href="https://docs.google.com/spreadsheets/d/1OH6sNuRtzEpMs-NCfWax8m8eW3ZZKA7a/edit?rtpof=true#gid=2141974348">Тест-кейс 2.1 - Валидация формы добавления счётчика (негативные сценарии)</a>
+
 - <a href="https://docs.google.com/spreadsheets/d/1YTiISSJmuCzBnwf_wfE4YKboljB5_afm/edit#gid=2141974348">Тест-кейс 3 - Валидация формы добавления / редактирования начисления (на стороне клиента)</a>
   - <a href="https://docs.google.com/spreadsheets/d/1yvCiLcfRLj4Sys1hFC1-4eIQ1g246kjD/edit#gid=2141974348">Тест-кейс 3.1 - Валидация формы добавления / редактирования начисления (негативные сценарии)</a>
 - <a href="https://docs.google.com/spreadsheets/d/1KAt6vzC2y003D5rNw2nUmM_lbrhbI_3r/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-кейс - Оплата начисления / начислений</a>
-- <a href="https://docs.google.com/spreadsheets/d/1cE9AFwRdmIReIbX_qur-Ju-Bby1mguXV/edit#gid=2141974348">Тест-кейс - добавление новой группы для счётчиков</a>
-- <a href="https://docs.google.com/spreadsheets/d/12TBQ_BeQrFaZ1ThKMQtYh-vdeCOrqJkT/edit#gid=2141974348">Тест-кейс - Поиск по таблицам ("Счётчики", "Арендаторы")</a>
-- <a href="https://docs.google.com/spreadsheets/d/1rjx8D9PeeiFfpELSHPYLlzACDZtYCvgh/edit#gid=2141974348">Тест-кейс - Удаление счётчика / счётчиков</a>
-- <a href="https://docs.google.com/spreadsheets/d/1YozX_Q-zIPp_7kDe05VwsElQ--0xujVJ/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-кейс - Печать неоплаченных начислений</a>
 - <a href="https://docs.google.com/spreadsheets/d/10W_wS5R-bQShGtcAhRdvIK-IfFGOgFx8/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-кейс - Сохранение неоплаченных начислений</a>
+- <a href="https://docs.google.com/spreadsheets/d/1YozX_Q-zIPp_7kDe05VwsElQ--0xujVJ/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-кейс - Печать неоплаченных начислений</a>
+- <a href="https://docs.google.com/spreadsheets/d/1VImL_uyHGENAJAlxgjA6kVCOoAUc1ytI/edit#gid=2141974348">Тест-кейс. Сортировка таблиц</a><br>
+- <a href="https://docs.google.com/spreadsheets/d/12TBQ_BeQrFaZ1ThKMQtYh-vdeCOrqJkT/edit#gid=2141974348">Тест-кейс - Поиск по таблицам ("Счётчики", "Арендаторы")</a>
 - <a href="https://docs.google.com/spreadsheets/d/17KB4yNnUvZpQbgIEpoQEq1IePHuslBeO/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-кейс - Удаление начислений</a>
+- <a href="https://docs.google.com/spreadsheets/d/1rjx8D9PeeiFfpELSHPYLlzACDZtYCvgh/edit#gid=2141974348">Тест-кейс - Удаление счётчика / счётчиков</a>
+
+
 
 
 
