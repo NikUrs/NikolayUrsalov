@@ -44,7 +44,7 @@
 - <a href="https://docs.google.com/spreadsheets/d/1rjx8D9PeeiFfpELSHPYLlzACDZtYCvgh/edit#gid=2141974348">Тест-кейс - Удаление счётчика / счётчиков</a>
 - <a href="https://docs.google.com/spreadsheets/d/1YozX_Q-zIPp_7kDe05VwsElQ--0xujVJ/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-кейс - Печать неоплаченных начислений</a>
 - <a href="https://docs.google.com/spreadsheets/d/10W_wS5R-bQShGtcAhRdvIK-IfFGOgFx8/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-кейс - Сохранение неоплаченных начислений</a>
-
+- <a href="https://docs.google.com/spreadsheets/d/17KB4yNnUvZpQbgIEpoQEq1IePHuslBeO/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-кейс - Удаление начислений</a>
 
 
 
