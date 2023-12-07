@@ -1,4 +1,4 @@
-Checked pages: "Invite", "Registration", "Success", "Certificate"
+Checked pages: "Invite", "Registration", "Success", "Certificate".
 
 <table>
 
