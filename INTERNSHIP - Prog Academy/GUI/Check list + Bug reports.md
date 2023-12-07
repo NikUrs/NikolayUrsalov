@@ -1,3 +1,4 @@
+Checked pages: "Invite", "Registration", "Success", "Certificate"
 
 <table>
 
@@ -8,52 +9,72 @@
   </tr>
 
   <tr>
-    <td colspan="2"><h3>1. "Invite" page</h3></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td colspan="2">1.1. Sending a valid invite code</td>
+    <td colspan="2">1. The fields have placeholders</td>
     <td>Passed</td>
     <td></td>
   </tr>
   <tr>
-    <td colspan="2">1.2. Sending an invalid invite code</td>
+    <td colspan="2">2. The required fields are validated</td>
     <td>Passed</td>
     <td></td>
   </tr>
   <tr>
-    <td colspan="2">1.3. Sending empty field</td>
+    <td colspan="2">3. The required fields have asterix sign</td>
     <td>Passed</td>
     <td></td>
   </tr>
   <tr>
-    <td colspan="2">1.4. Sending a valid invite code in CamelCase</td>
+    <td colspan="2">4. The validation error messages match with the field label</td>
     <td>Passed</td>
     <td></td>
   </tr>
   <tr>
-    <td colspan="2">1.5. Invite code with a space</td>
+    <td colspan="2">5. The validation error messages doesn’t shift other elements</td>
     <td>Passed</td>
     <td></td>
   </tr>
   <tr>
-    <td colspan="2">1.6. Inappropriate data types</td>
+    <td colspan="2">6. Display of pop-up windows</td>
     <td>Passed</td>
     <td></td>
   </tr>
   <tr>
-    <td colspan="2">1.7. Replace an uppercase letter with a lowercase letter and vice versa</td>
+    <td colspan="2">7. Font styles - Font size, colour, and family.</td>
     <td>Passed</td>
     <td></td>
   </tr>
   <tr>
-    <td colspan="2">1.8. Use an expired invite code</td>
+    <td colspan="2">8. Button states</td>
     <td>Passed</td>
     <td></td>
   </tr>
   <tr>
-    <td colspan="2">1.9. Validation error message</td>
+    <td colspan="2">9. Field states</td>
+    <td>Passed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">10. If there are no spelling mistakes in the field labels and validation error messages</td>
+    <td>Passed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">11. If the web elements are not overlapping anywhere on the web page</td>
+    <td>Passed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">12. Success email</td>
+    <td>Passed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">13. Check the “reCAPTCHA” block</td>
+    <td>Passed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">14. The fields are aligned on the pages</td>
     <td>Passed</td>
     <td></td>
   </tr>
