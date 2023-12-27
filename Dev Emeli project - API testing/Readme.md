@@ -1,21 +1,29 @@
----
-layout: post
-title: Теория тестирования от А до Я.
-permalink: /testing-theory
+Dev Emeli web-site is a shop, which allows the registered users to add product card for selling. Only clothes ткани
 
-description: 
-    Статья для подготовки к собеседованиям QA по теории тестирования. 
-    25 тем. Объяснение сложных понятий простыми словами и на примерах.
-author: Ilarion Halushka
-keywords:
-    - testing
-    - qa
-    - theory
-    - testing theory
-    - теорія тестування
-    - теория тестирования
-    - interview
-    - співбесіда
-    - собеседование
-tags: best, testing, qa, interview
----
+The purpose of testing was to check the correct operation of API functionality   part of web-site functionality.
+
+
+
+The website should accept valid data, invalid shows validation errors for negative scenarios.
+
+
+Были выполнены позитивные и негативные проверки.
+
+Проводились следующие типы тестирования API
+- functional API testing
+It 
+- функциональное тестирование API, чтобы гарантировать, что API работает в пределах ожидаемых параметров и обрабатывает ошибки, когда результаты выходят за указанные параметры. 
+- usability testing
+Response from a server should consist of correct status code and validation message in response body. 
+
+Postman v7 was used for testing API.
+
+API testing was performed on the integration level with using test documentation on Swagger.
+
+During API testing was used the following HTTP methods: GET, POST, PUT, PATCH, DELETE
+
+Test documentation was created during the testing process:
+- Check lists
+- Test cases
+- Bug reports
+- Collection in Postman
