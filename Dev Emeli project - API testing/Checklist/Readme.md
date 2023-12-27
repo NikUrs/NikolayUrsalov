@@ -344,7 +344,7 @@
 
 
 <tr>
-    <td colspan="2"><b>Update a specific product by ID: <br>PUT /wp-json/wc/v3/products/<id></b></td>
+    <td colspan="2"><h4>Update a specific product by ID:</h4> <b></b><br>PUT /wp-json/wc/v3/products/<id></b></td>
     <td colspan="2"></td>
     <td></td>
     <td colspan="2"></td>
