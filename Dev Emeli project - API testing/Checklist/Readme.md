@@ -341,6 +341,23 @@
 </tr>
 
 
+
+
+<tr>
+    <td colspan="2"><b>Update a specific product by ID: <br>PUT /wp-json/wc/v3/products/<id></b></td>
+    <td colspan="2"></td>
+    <td></td>
+    <td colspan="2"></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">One required field of a product card</td>
+    <td>Passed</td>
+    <td colspan="2"></td>
+</tr>
+
+
+
 </table>
 
 
