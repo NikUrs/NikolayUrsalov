@@ -1,4 +1,4 @@
-Checked pages: "Invite", "Registration", "Success", "Certificate".
+Checking the following pages: "Invite", "Registration", "Success", "Certificate".
 
 <table>
 
@@ -80,6 +80,57 @@ Checked pages: "Invite", "Registration", "Success", "Certificate".
   </tr>
 
 </table>
+
+
+
+
+Checking the "Certificate" page.
+
+<table>
+
+  <tr>
+    <th colspan="2"><h3>Checking</h3></th>
+    <th><h3>Status</h3></th>
+    <th><h3>Bug / Comments</h3></th>
+  </tr>
+  <tr>
+    <td colspan="2">1. A generated certificate matches with a certificate’s template</td>
+    <td>Passed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">2. Input data is shown in the correct place of a generated certificate</td>
+    <td>Passed</td>
+    <td></td>
+  </tr>
+ <tr>
+    <td colspan="2">3. The fields have placeholders</td>
+    <td>Passed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">4. Button states</td>
+    <td>Passed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">5. Field states</td>
+    <td>Passed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">6. Hyperlink states</td>
+    <td>Passed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">7. Font styles - Font size, colour, and family.</td>
+    <td>Passed</td>
+    <td></td>
+  </tr>
+  
+</table>
+
 
 
 <h4>Check list</h4>
