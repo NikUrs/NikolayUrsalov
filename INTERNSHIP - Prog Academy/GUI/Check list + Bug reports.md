@@ -1,4 +1,4 @@
-<h3>1. Checking the following pages: "Invite", "Registration", "Success", "Certificate".</h3>
+<b>1. Checking the following pages: "Invite", "Registration", "Success", "Certificate".</b>
 
 <table>
 
@@ -85,7 +85,7 @@
 
 <br>
 
-<h3>2. Checking the "Certificate" page.</h3>
+<b>2. Checking the "Certificate" page.</b>
 
 <table>
 
