@@ -10,7 +10,54 @@
 
 
 
+Тестирование GUI
+- Выполняется для трёх страниц: "Счётчики", "Начисления", "Арендаторы"
 
+<table>
+
+<tr>
+  <th colspan="2"><h3>Checking</h3></th>
+  <th><h3>Status</h3></th>
+  <th><h3>Bug / Comments</h3></th>
+</tr>
+
+<tr>
+  <td colspan="2"><h3>1. Выпадающие списки</h3></td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">1. Выпадающие списки</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">2. Кнопки</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">3. Шрифты</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">4. Стили</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">5. Иконки в панели навигации</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
+
+</table>
+
+
+
+Тестирование локализации. 
+- Выполняется для трёх языковых версий сайта: украинская, русская, английская.
 
 <table>
 
@@ -52,3 +99,4 @@
 </tr>
 
 </table>
+
