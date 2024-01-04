@@ -40,8 +40,8 @@
 - <a href="https://docs.google.com/spreadsheets/d/1t2ycTAZHLR3j_cuQvnG9Y6CsbZ3t41GG/edit?usp=share_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-кейс - Добавление арендатора</a>
   - <a href="https://docs.google.com/spreadsheets/d/1OH6sNuRtzEpMs-NCfWax8m8eW3ZZKA7a/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-кейс - Добавление арендатора (негативные сценарии)</a>
 
-- <a href="https://docs.google.com/spreadsheets/d/1YTiISSJmuCzBnwf_wfE4YKboljB5_afm/edit#gid=2141974348">Тест-кейс 3 - Валидация формы добавления / редактирования начисления (на стороне клиента)</a>
-  - <a href="https://docs.google.com/spreadsheets/d/1yvCiLcfRLj4Sys1hFC1-4eIQ1g246kjD/edit#gid=2141974348">Тест-кейс 3.1 - Валидация формы добавления / редактирования начисления (негативные сценарии)</a>
+- <a href="https://docs.google.com/spreadsheets/d/1YTiISSJmuCzBnwf_wfE4YKboljB5_afm/edit#gid=2141974348">Тест-кейс 3 - Форма добавления / редактирования начисления (на стороне клиента)</a>
+  - <a href="https://docs.google.com/spreadsheets/d/1yvCiLcfRLj4Sys1hFC1-4eIQ1g246kjD/edit#gid=2141974348">Тест-кейс 3.1 - Форма добавления / редактирования начисления (негативные сценарии)</a>
 - <a href="https://docs.google.com/spreadsheets/d/1KAt6vzC2y003D5rNw2nUmM_lbrhbI_3r/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-кейс - Оплата начисления / начислений</a>
 - <a href="https://docs.google.com/spreadsheets/d/10W_wS5R-bQShGtcAhRdvIK-IfFGOgFx8/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-кейс - Сохранение неоплаченных начислений</a>
 - <a href="https://docs.google.com/spreadsheets/d/1YozX_Q-zIPp_7kDe05VwsElQ--0xujVJ/edit?usp=drive_link&ouid=102064553302234595178&rtpof=true&sd=true">Тест-кейс - Печать неоплаченных начислений</a>
