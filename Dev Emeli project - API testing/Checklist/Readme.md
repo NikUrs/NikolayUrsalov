@@ -363,7 +363,7 @@
 </tr>
 
 <tr>
-    <td colspan="2"><b>Update a specific product by ID:</b> <br>PATCH /wp-json/wc/v3/products/<id></td>
+    <td colspan="2"><b>Update a specific product by ID: (partially)</b> <br>PATCH /wp-json/wc/v3/products/<id></td>
     <td colspan="2"></td>
     <td></td>
     <td colspan="2"></td>
@@ -375,7 +375,7 @@
     <td colspan="2"></td>
 </tr>
 
-Updating a product card partially
+
 
 </table>
 
