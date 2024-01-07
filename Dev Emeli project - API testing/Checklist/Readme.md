@@ -361,6 +361,45 @@
     <td>Passed</td>
     <td colspan="2"></td>
 </tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Check idempotency of a request</td>
+    <td>Passed</td>
+    <td colspan="2"></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Check idempotency of a request</td>
+    <td>Passed</td>
+    <td colspan="2"></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Updating a product card partially</td>
+    <td>Passed</td>
+    <td colspan="2"></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Updating a product with invalid id</td>
+    <td>Passed</td>
+    <td colspan="2"></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Updating a product with invalid id</td>
+    <td>Passed</td>
+    <td colspan="2"></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Updating a product with not existing id (valid id)</td>
+    <td>Passed</td>
+    <td colspan="2"></td>
+</tr>
+
+
+
 
 <tr>
     <td colspan="2"><b>Update a specific product by ID: (partially)</b> <br>PATCH /wp-json/wc/v3/products/<id></td>
