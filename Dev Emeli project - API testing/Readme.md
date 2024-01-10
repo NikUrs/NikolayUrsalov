@@ -29,5 +29,6 @@ Test documentation was created during the testing process:
 - Collection in Postman
 
 <img windth="500px" src="https://github.com/NikUrs/NikolayUrsalov/blob/975f77ceb66e87df6e68a75eae08a27d380eee0a/img/1.png">
-<img windth="500px" src="/img/2.png">
-
+<img windth="500px" src="https://github.com/NikUrs/NikolayUrsalov/blob/d1bb0ce734afef373060cdb08f8f3d7bd8a3bce9/img/2.png">
+<img windth="500px" src="https://github.com/NikUrs/NikolayUrsalov/blob/d1bb0ce734afef373060cdb08f8f3d7bd8a3bce9/img/3.png">
+<img windth="500px" src="https://github.com/NikUrs/NikolayUrsalov/blob/d1bb0ce734afef373060cdb08f8f3d7bd8a3bce9/img/4.png">
