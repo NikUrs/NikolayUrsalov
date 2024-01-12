@@ -29,6 +29,8 @@
 
 Тест-кейсы<br>
 
+- <a href="https://docs.google.com/spreadsheets/d/1hib8LpEAOr4gmSsq7upmK-Vmk9yh3P2U/edit#gid=2141974348">Тест-кейс 01. Общая часть (навигация по страницам, локализация)</a><br>
+
 - <a href="https://docs.google.com/spreadsheets/d/1hib8LpEAOr4gmSsq7upmK-Vmk9yh3P2U/edit#gid=2141974348">Тест-кейс 01. Навигация по страницам веб-приложения</a><br>
 
 - <a href="https://docs.google.com/spreadsheets/d/1WfyMXtksw3sy-CsqSHqcZWn7Xev-dbp9/edit#gid=2141974348">Тест-кейс - Форма добавления / редактирования счётчика</a>
