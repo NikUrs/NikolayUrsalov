@@ -29,11 +29,11 @@
 
 Тест-кейсы<br>
 
-- <a href="https://docs.google.com/spreadsheets/d/1hib8LpEAOr4gmSsq7upmK-Vmk9yh3P2U/edit#gid=2141974348">Тест-кейс 01. Общая часть (навигация по страницам, локализация)</a><br>
 
 - <a href="https://docs.google.com/spreadsheets/d/1hib8LpEAOr4gmSsq7upmK-Vmk9yh3P2U/edit#gid=2141974348">Тест-кейс 01. Навигация по страницам веб-приложения</a><br>
+- <a href="https://docs.google.com/spreadsheets/d/1IskjfYLFB9irm7DQh56hXVEEdkaTb4OK/edit#gid=2141974348">Тест-кейс 02. Локализация веб-приложения</a><br>
 
-- <a href="https://docs.google.com/spreadsheets/d/1WfyMXtksw3sy-CsqSHqcZWn7Xev-dbp9/edit#gid=2141974348">Тест-кейс - Форма добавления / редактирования счётчика</a>
+- <a href="https://docs.google.com/spreadsheets/d/1WfyMXtksw3sy-CsqSHqcZWn7Xev-dbp9/edit#gid=2141974348">Тест-кейс 03. Форма добавления / редактирования счётчика</a>
   - <a href="https://docs.google.com/spreadsheets/d/1OH6sNuRtzEpMs-NCfWax8m8eW3ZZKA7a/edit?rtpof=true#gid=2141974348">Тест-кейс 2.1 - Валидация формы добавления счётчика (негативные сценарии)</a>
 - <a href="https://docs.google.com/spreadsheets/d/1cE9AFwRdmIReIbX_qur-Ju-Bby1mguXV/edit#gid=2141974348">Тест-кейс - добавление новой группы для счётчиков</a>
 
