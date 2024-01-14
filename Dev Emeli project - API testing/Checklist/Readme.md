@@ -413,8 +413,42 @@
     <td>Passed</td>
     <td colspan="2"></td>
 </tr>
-
-
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">400</td>
+    <td></td>
+    <td colspan="2"></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Updating one required field of a not existing product with a valid id</td>
+    <td>Passed</td>
+    <td colspan="2"></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">404</td>
+    <td></td>
+    <td colspan="2"></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Updating one required field of a not existing product with a valid id</td>
+    <td>Passed</td>
+    <td colspan="2"></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">404</td>
+    <td></td>
+    <td colspan="2"></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Updating one required field of a product card with an invalid id</td>
+    <td>Passed</td>
+    <td colspan="2"></td>
+</tr>
 
 </table>
 
