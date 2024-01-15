@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td colspan="2"></td>
-    <td colspan="2">Status 201</td>
+    <td colspan="2">201</td>
     <td></td>
     <td colspan="2"></td>
   </tr>
@@ -111,7 +111,7 @@
 </tr>
 <tr>
     <td colspan="2"></td>
-    <td colspan="2">Status 400</td>
+    <td colspan="2">400</td>
     <td></td>
     <td></td>
 </tr>
@@ -137,7 +137,7 @@
 </tr>
 <tr>
     <td colspan="2"></td>
-    <td colspan="2">Status 200</td>
+    <td colspan="2">200</td>
     <td></td>
     <td colspan="2"></td>
 </tr>
@@ -195,7 +195,7 @@
 </tr>
 <tr>
     <td colspan="2"></td>
-    <td colspan="2">Status 200</td>
+    <td colspan="2">200</td>
     <td></td>
     <td colspan="2"></td>
 </tr>
@@ -289,7 +289,7 @@
 
 <tr>
     <td colspan="2"></td>
-    <td colspan="2">Status 400</td>
+    <td colspan="2">400</td>
     <td></td>
     <td colspan="2"></td>
 </tr>
@@ -311,7 +311,7 @@
 </tr>
 <tr>
     <td colspan="2"></td>
-    <td colspan="2">Status 200</td>
+    <td colspan="2">200</td>
     <td></td>
     <td colspan="2"></td>
 </tr>
