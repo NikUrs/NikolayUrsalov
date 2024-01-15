@@ -409,10 +409,25 @@
 </tr>
 <tr>
     <td colspan="2"></td>
-    <td colspan="2">One required field of a product card</td>
+    <td colspan="2">200</td>
+    <td></td>
+    <td colspan="2"></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Updating one required field of a product card</td>
     <td>Passed</td>
     <td colspan="2"></td>
 </tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Updating more than one required field of a product card</td>
+    <td>Passed</td>
+    <td colspan="2"></td>
+</tr>
+
+
+      
 <tr>
     <td colspan="2"></td>
     <td colspan="2">400</td>
