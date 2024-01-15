@@ -361,15 +361,10 @@
     <td>Passed</td>
     <td colspan="2"></td>
 </tr>
+
 <tr>
     <td colspan="2"></td>
-    <td colspan="2">Check idempotency of a request</td>
-    <td>Passed</td>
-    <td colspan="2"></td>
-</tr>
-<tr>
-    <td colspan="2"></td>
-    <td colspan="2">Check idempotency of a request</td>
+    <td colspan="2">Check idempotency of a PUT request</td>
     <td>Passed</td>
     <td colspan="2"></td>
 </tr>
@@ -453,6 +448,64 @@
     <td colspan="2"></td>
 </tr>
 
+
+<tr>
+    <td colspan="2"><b>Delete a specific product by ID: (partially)</b> <br>DELETE /wp-json/wc/v3/products/<id></td>
+    <td colspan="2"></td>
+    <td></td>
+    <td colspan="2"></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">200</td>
+    <td></td>
+    <td colspan="2"></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Deleting an existing product</td>
+    <td>Passed</td>
+    <td colspan="2"></td>
+</tr>
+
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Deleting an existing product permanently</td>
+    <td>Passed</td>
+    <td colspan="2"></td>
+</tr>
+
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">404</td>
+    <td>Passed</td>
+    <td colspan="2"></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Deleting an existing product permanently</td>
+    <td>Passed</td>
+    <td colspan="2"></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Deleting a nonexistent product with valid id</td>
+    <td>Passed</td>
+    <td colspan="2"></td>
+</tr>
+
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">410</td>
+    <td></td>
+    <td colspan="2"></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Check idempotency of a DELETE request</td>
+    <td>Passed</td>
+    <td colspan="2"></td>
+</tr>
 
 </table>
 
