@@ -383,7 +383,7 @@
 </tr>
 <tr>
     <td colspan="2"></td>
-    <td colspan="2">Updating a product with not existing id (valid id)</td>
+    <td colspan="2">Updating one required field of a not existing product with a valid id</td>
     <td>Passed</td>
     <td colspan="2"></td>
 </tr>
@@ -395,7 +395,7 @@
 </tr>
 <tr>
     <td colspan="2"></td>
-    <td colspan="2">Updating a product with invalid id</td>
+    <td colspan="2">Updating one required field of a product card with an invalid id</td>
     <td>Passed</td>
     <td colspan="2"></td>
 </tr>
@@ -451,7 +451,7 @@
 </tr>
 <tr>
     <td colspan="2"></td>
-    <td colspan="2">Updating one required field of a not existing product with a valid id</td>
+    <td colspan="2">Updating a product with invalid id</td>
     <td>Passed</td>
     <td colspan="2"></td>
 </tr>
