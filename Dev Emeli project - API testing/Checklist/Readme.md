@@ -129,6 +129,9 @@
 </tr>
 
 
+
+
+<!-- GET 1 -->
 <tr>
     <td colspan="2"><b>Retrieve and view a specific product by ID: <br>GET /wp-json/wc/v3/products/<id></id>b></td>
     <td colspan="2"></td>
@@ -187,6 +190,9 @@
 </tr>
 
 
+
+<!-- GET 2 -->
+
 <tr>
     <td colspan="2"><b>Retrieve and view a list of products<br>GET <b></b>/wp-json/wc/v3/products/<b></td>
     <td colspan="2"></td>
@@ -201,7 +207,7 @@
 </tr>
 <tr>
     <td colspan="2"></td>
-    <td colspan="2">Getting the list of last added 20 product cards by default</td>
+    <td colspan="2">Getting a list of last added 20 product cards by default</td>
     <td>Passed</td>
     <td></td>
 </tr>
@@ -235,6 +241,19 @@
     <td>Passed</td>
     <td></td>
 </tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Searching a product by a name (valid value)</td>
+    <td>Failed</td>
+    <td><a href="https://docs.google.com/spreadsheets/d/1Ei3vrJGT0UmrJw0tFUlruxH1PlV6p2rHORRS_PNmDDo/edit?usp=drive_link">Bug report 04</a></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Searching a product by a name (invalid value)</td>
+    <td>Failed</td>
+    <td><a href="https://docs.google.com/spreadsheets/u/1/d/1tgqQaNh3MMBijczTGqSWCfKFnYJOy3R5eCOA8oqaxPs/edit#gid=0">Bug report 4.1</a></td>
+</tr>
+
 <tr>
     <td colspan="2"></td>
     <td colspan="2">Limiting results to matching a string</td>
