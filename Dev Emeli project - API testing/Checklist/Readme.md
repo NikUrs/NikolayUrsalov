@@ -272,7 +272,9 @@
     <td colspan="2"></td>
     <td colspan="2">Limited by publication date - after</td>
     <td>Passed</td>
-    <td><a href="https://docs.google.com/spreadsheets/d/1fDigK20YsXrnppZNbgCJRpqRkk9YxkJ3qZE1Birysvg/edit#gid=0">Bug report 11</a></td>
+    <td><a href="https://docs.google.com/spreadsheets/d/1fDigK20YsXrnppZNbgCJRpqRkk9YxkJ3qZE1Birysvg/edit#gid=0">Bug report 11</a>
+    <a href="https://docs.google.com/spreadsheets/d/1opBeCCDzeltXp4bx8wTk-Uzw8oiDyi1q4iXgHsCjBsM/edit#gid=0">Bug report 05</a>
+    </td>
 </tr>
 <tr>
     <td colspan="2"></td>
