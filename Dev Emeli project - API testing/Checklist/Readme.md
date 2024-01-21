@@ -266,6 +266,34 @@
     <td>Passed</td>
     <td></td>
 </tr>  
+
+
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Limited by publication date - after</td>
+    <td>Passed</td>
+    <td></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Llimited by publication date (before)</td>
+    <td>Passed</td>
+    <td></td>
+</tr>  
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Limited by modified date - after</td>
+    <td>Passed</td>
+    <td></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Limited by modified_date (before)</td>
+    <td>Passed</td>
+    <td></td>
+</tr>  
+
+
 <tr>
     <td colspan="2"></td>
     <td colspan="2">Exclude one specific product id</td>
