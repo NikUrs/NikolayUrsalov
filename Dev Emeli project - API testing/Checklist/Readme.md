@@ -492,7 +492,7 @@
     <td colspan="2"></td>
     <td colspan="2">Deleting an existing product</td>
     <td>Passed</td>
-    <td colspan="2"></td>
+    <td colspan="2"><a href="https://docs.google.com/spreadsheets/d/16q9EpxDGkAZg9yGj_gKKl-13rVKnV9OTiEyoEwb2bPc/edit#gid=0">Bug report 9</a></td>
 </tr>
 
 <tr>
