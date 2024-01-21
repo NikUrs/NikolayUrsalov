@@ -272,25 +272,25 @@
     <td colspan="2"></td>
     <td colspan="2">Limited by publication date - after</td>
     <td>Passed</td>
-    <td></td>
+    <td><a href="https://docs.google.com/spreadsheets/d/1fDigK20YsXrnppZNbgCJRpqRkk9YxkJ3qZE1Birysvg/edit#gid=0">Bug report 11</a></td>
 </tr>
 <tr>
     <td colspan="2"></td>
     <td colspan="2">Llimited by publication date (before)</td>
     <td>Passed</td>
-    <td></td>
+    <td><a href="https://docs.google.com/spreadsheets/d/1sqTLBBhVbX6GwMfvSRu8fCYP_-se9uIHVmy6eGjr8xY/edit#gid=0">Bug report 14</a></td>
 </tr>  
 <tr>
     <td colspan="2"></td>
     <td colspan="2">Limited by modified date - after</td>
     <td>Passed</td>
-    <td></td>
+    <td><a href="https://docs.google.com/spreadsheets/d/1pve9QYrb-ewVmUFGn3eS-hZY_f21xAtkxchchhyJlqk/edit#gid=0">Bug report 12</a></td>
 </tr>
 <tr>
     <td colspan="2"></td>
     <td colspan="2">Limited by modified_date (before)</td>
     <td>Passed</td>
-    <td></td>
+    <td><a href="https://docs.google.com/spreadsheets/d/1phhwZei_KU06r2ozfVEvhWhhZ6_TWqC5jwl7SmMDFw8/edit#gid=0">Bug report 13</a></td>
 </tr>  
 
 
