@@ -494,10 +494,22 @@
     <td>Passed</td>
     <td colspan="2"><a href="https://docs.google.com/spreadsheets/d/16q9EpxDGkAZg9yGj_gKKl-13rVKnV9OTiEyoEwb2bPc/edit#gid=0">Bug report 9</a></td>
 </tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Re-delete a product</td>
+    <td>Passed</td>
+    <td colspan="2"></td>
+</tr>
 
 <tr>
     <td colspan="2"></td>
     <td colspan="2">Deleting an existing product permanently</td>
+    <td>Passed</td>
+    <td colspan="2"></td>
+</tr>
+<tr>
+    <td colspan="2"></td>
+    <td colspan="2">Re-delete a product (deleted permanently)</td>
     <td>Passed</td>
     <td colspan="2"></td>
 </tr>
