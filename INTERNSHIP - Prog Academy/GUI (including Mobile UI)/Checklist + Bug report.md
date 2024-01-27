@@ -147,7 +147,6 @@
 <h4>Mobile UI testign</h4>
 Testing the following screen size values: 360-575, 576-1300
 
-Mobile site version<br>
 
 <table>
   <tr>
