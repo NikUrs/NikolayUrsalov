@@ -1,4 +1,8 @@
-
+Checklist include the following types:
+1. API
+2. Functional - Chatbot commands
+3. Functional - Features
+4. GUI (including Mobile UI)
 
 
   Platform: PC<br>
