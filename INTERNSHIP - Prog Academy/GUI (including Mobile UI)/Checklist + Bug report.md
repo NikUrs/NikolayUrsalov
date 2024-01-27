@@ -143,12 +143,76 @@
 - All the mandatory fields have asterix sign<br>
 - All the error messages match with the field label<br><br>
 
+
+<h4>Mobile UI testign</h4>
+Testing the following screen size values: 360-575, 576-1300
+
 Mobile site version<br>
-- Navigation<br>
-- burger button<br>
-- the elements have enough size for tapping<br>
-- Check the visual display of tapping different elements of the site (buttons, links, drop-down lists, etc.)<br>
-- Full version of the site link	<br><br>
+
+<table>
+  <tr>
+    <th colspan="2"><h3>Checking</h3></th>
+    <th><h3>Status</h3></th>
+    <th><h3>Bug / Comments</h3></th>
+  </tr>
+
+  <tr>
+    <td colspan="2">1. Navigation bar</td>
+    <td>Passed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">2. Burger button</td>
+    <td>Passed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">3. The elements have enough size for clicking (tapping)</td>
+    <td>Passed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">4. Horizontal scroll is unavailable</td>
+    <td>Passed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">5. Validation error message (affect on other elements, styles)</td>
+    <td>Passed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">6. ReCAPTCHA</td>
+    <td>Passed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">7. Font-styles (font-size, font-colour, font-family)</td>
+    <td>Passed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">8. Button conditions</td>
+    <td>Passed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">9. Overlapping of elements anywhere on the web page</td>
+    <td>Passed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">10. Check the visual of elements (buttons, links, drop-down lists, etc.)</td>
+    <td>Passed</td>
+    <td></td>
+  </tr>
+</table>
+
+
+
+
+
+
 
  Bug-reports<br>
 - <a href="https://docs.google.com/spreadsheets/d/12KEEJFddZtl741j8TxCts92ghMKKscoNiEowJAWGCqc/edit?usp=drive_link">Bug Report 006 [Front-end-04]. The registration form fields are shifted in relation to each other on mobile screens with a width range of 575-360.</a>
