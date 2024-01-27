@@ -156,7 +156,7 @@ Testing the following screen size values: 360-575, 576-1300
   </tr>
 
   <tr>
-    <td colspan="2">1. Navigation bar</td>
+    <td colspan="2">1. Navigation menu</td>
     <td>Passed</td>
     <td></td>
   </tr>
@@ -196,22 +196,39 @@ Testing the following screen size values: 360-575, 576-1300
     <td></td>
   </tr>
   <tr>
-    <td colspan="2">9. Overlapping of elements anywhere on the web page</td>
+    <td colspan="2">9. Field states</td>
     <td>Passed</td>
     <td></td>
   </tr>
   <tr>
-    <td colspan="2">10. Position of elements in relation to a Mockup</td>
+    <td colspan="2">10. The required fields have asterix sign</td>
+    <td>Passed</td>
+    <td></td>
+  </tr>
+  
+  
+  <tr>
+    <td colspan="2">11. Overlapping of elements anywhere on the web page</td>
+    <td>Passed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">12. Position of elements in relation to a Mockup</td>
     <td>Failed</td>
     <td><a href="https://docs.google.com/spreadsheets/d/12KEEJFddZtl741j8TxCts92ghMKKscoNiEowJAWGCqc/edit?usp=drive_link">Bug report 06</a></td>
   </tr>
   <tr>
-    <td colspan="2">10. Check the visual of elements (buttons, links, drop-down lists, etc.)</td>
+    <td colspan="2">13. Check the visual of elements (buttons, links, drop-down lists, etc.)</td>
     <td>Passed</td>
     <td></td>
   </tr>
   <tr>
-    <td colspan="2">11. Text display</td>
+    <td colspan="2">14. Pop-up windows display</td>
+    <td>Passed</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="2">15. Text display</td>
     <td>Failed</td>
     <td><a href="https://docs.google.com/spreadsheets/d/1L49IR-pGNUU1iiRUX3gF39JA6HDmMazQv_KX39uTFUw/edit?usp=drive_link">Bug Report 07</a></td>
   </tr>
