@@ -38,7 +38,7 @@
 	- <a href="https://docs.google.com/spreadsheets/d/1naco2jsyGZx9750tzzymmdFa2raWN0kwfsmNIvClzOY/edit#gid=0">Bug report 10 [API]. JSON data in the response body isn't matched with the technical task after sending invalid data in the "inviteCode" key.</a>
  	- <a href="https://docs.google.com/spreadsheets/d/141pa54rj37QGMvB7XWAs5eqich42nNuazcUViVFIrVQ/edit#gid=0">Bug report 10 [cURL]. JSON data in the response body isn't matched with the technical task after sending the argument with an invalid value for the "inviteCode" key.</a>
 
-- <b>Microservice for certificate generation</b><br>
+- <b>Microservice for certificate generating</b><br>
 	- <a href="https://docs.google.com/spreadsheets/d/1C4FoBuFj0OiFzjXCQnl48n4spWaAUs-50GRkPI4_UoY/edit#gid=0">Bug-report 20 [Java]. A generated certificate isn’t shown in the HTTP response after sending GET request with a valid unique certificate id.</a><br>
 	- <a href="https://docs.google.com/spreadsheets/d/1P_vW4PFKdfYa5jMmCwbNwuSE7tOH13RZ6ep8YE1Y7-A/edit#gid=0">Bug-report 20 [cURL]. A generated certificate isn’t shown in the HTTP response after sending GET request with a valid unique certificate id.</a><br>
 	- <a href="https://docs.google.com/spreadsheets/d/1D9nFj9Bki4WfvQsgVI_JmcvAiwqfhOz2_iEQ4J2kObU/edit#gid=0">Bug-report 21 [Java]. The HTTP response body is shown with the HTML document after sending a GET request with an invalid certificate id.</a><br>
