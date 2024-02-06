@@ -1,3 +1,5 @@
+Testing of the client-server application that helps to automate the communication between school and students via Telegram chatbot.
+
 <h3>Internship - Test Documentation</h3>
 Testing of the project, which consists of<br>
 
