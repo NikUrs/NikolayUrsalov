@@ -1,11 +1,6 @@
 Testing of the client-server application that helps to automate the communication between school and students via Telegram chatbot.
 
-<h4>Test Documentation</h4>
-- Checklists<br>
-- Test-cases<br>
-- Bug-reports<br>
-
-<h4>Project structure</h4>
+<h3>Project structure</h3>
 The project consists of the following parts:<br>
 
 - "Home page"<br>
@@ -50,6 +45,11 @@ Managers can generate a certificate of any course for one student or for one gro
 - /broadcast: broadcast message to users<br>
 
 Successfully message: "Command execution finished successfully!"<br><br>
+
+<h3>Test Documentation</h3>
+- Checklists<br>
+- Test-cases<br>
+- Bug-reports<br>
 
 <h3>Testing types</h3>
 <h4><strong>Functional</strong> testing <a href="https://github.com/NikUrs/NikolayUrsalov/blob/main/INTERNSHIP%20-%20Prog%20Academy/Functional/Readme.md">click to the link</a></h4> 
