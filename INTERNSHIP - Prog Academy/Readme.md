@@ -1,13 +1,18 @@
 Testing of the client-server application that helps to automate the communication between school and students via Telegram chatbot.
 
-<h3>Internship - Test Documentation</h3>
-Testing of the project, which consists of<br>
+<h3>Test Documentation</h3>
+- Checklists
+- Test-cases
+- Bug-reports
 
+The project consists of the following parts:<br>
+
+- "Home page"<br>
 - “Invite” page<br>
 - “Registration” page<br>
 - “Success” page<br>
 - “Certificate” page<br>
-- Сhatbot commands<br><br>
+- Сhatbot in Telegram with its list of commands<br><br>
 
 <h4>User / Admin (manager) rights</h4>
 
