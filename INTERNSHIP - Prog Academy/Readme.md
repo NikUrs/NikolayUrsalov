@@ -1,10 +1,11 @@
 Testing of the client-server application that helps to automate the communication between school and students via Telegram chatbot.
 
-<h3>Test Documentation</h3>
-- Checklists
-- Test-cases
-- Bug-reports
+<h4>Test Documentation</h4>
+- Checklists<br>
+- Test-cases<br>
+- Bug-reports<br>
 
+<h4>Project structure</h4>
 The project consists of the following parts:<br>
 
 - "Home page"<br>
