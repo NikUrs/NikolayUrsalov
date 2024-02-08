@@ -242,7 +242,7 @@
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">3.3. Follow the link</td>
+  <td colspan="2">3.3. Follow the link "Join a Telegram bot"</td>
   <td>Passed</td>
   <td></td>
 </tr>
