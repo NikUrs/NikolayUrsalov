@@ -232,12 +232,12 @@
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">3.1. Opening the page using the direct link</td>
+  <td colspan="2">3.1. Opening the "Success" page using the direct link</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">3.2. Opening the page using the direct link</td>
+  <td colspan="2">3.2. Opening the "Success" page using a link from the success message</td>
   <td>Passed</td>
   <td></td>
 </tr>
@@ -247,7 +247,7 @@
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">3.4. Compare links (from email address and on the “Success” page)</td>
+  <td colspan="2">3.4. Compare links (from the success message and on the “Success” page)</td>
   <td>Passed</td>
   <td></td>
 </tr>
