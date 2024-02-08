@@ -263,21 +263,45 @@
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">4.2. Check a generated certificate’s name</td>
+  <td colspan="2">4.2. Generate more than one certificate</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">4.3. Check the format of generated certificate</td>
+  <td colspan="2">4.3. Deleting all the links of generated certificates</td>
   <td>Passed</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">4.4. Using of invalid values</td>
+  <td colspan="2">4.4. More than one request of generating a certificate at one time</td>
   <td>Passed</td>
   <td></td>
 </tr>
-
+<tr>
+  <td colspan="2">4.5. Check a certificate’s unique number</td>
+  <td>Not Run</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">4.6. Validation of the "Name" field (invalid type of data)</td>
+  <td>Not Run</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">4.7. Spaces before and after entered value in the "Name" field</td>
+  <td>Not Run</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">4.8. Entering lowercase value format in the "Name" field</td>
+  <td>Not Run</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">4.9. Check the format of a generated certificate file</td>
+  <td>Passed</td>
+  <td></td>
+</tr>
 
 </table>
 
