@@ -288,17 +288,27 @@
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">4.7. Spaces before and after entered value in the "Name" field</td>
+  <td colspan="2">4.7. Validation of the "Course" field (invalid type of data)</td>
   <td>Not Run</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">4.8. Entering lowercase value format in the "Name" field</td>
+  <td colspan="2">4.8. Spaces before and after entered value in the "Name" and "Course" fields</td>
   <td>Not Run</td>
   <td></td>
 </tr>
 <tr>
-  <td colspan="2">4.9. Check the format of a generated certificate file</td>
+  <td colspan="2">4.9. Entering lowercase value in the "Name" and "Course" fields</td>
+  <td>Not Run</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">4.10. Entering uppercase value in the "Name" and "Course" fields</td>
+  <td>Not Run</td>
+  <td></td>
+</tr>
+<tr>
+  <td colspan="2">4.11. Check the format of a generated certificate file</td>
   <td>Passed</td>
   <td></td>
 </tr>
