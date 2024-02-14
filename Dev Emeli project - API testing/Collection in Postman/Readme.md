@@ -9,7 +9,7 @@ Go to collection <a href=""></a>
 
 <img src="https://github.com/NikUrs/NikolayUrsalov/blob/9de4707c1bd67b619c87260a963b7bad65e67875/img/2.png" style="width: 50%;">
 
-<h4>3. Getting all list of products</h4>
+<h4>3. Read (get) necessary information about a product(-s)</h4>
 
 <img src="https://github.com/NikUrs/NikolayUrsalov/blob/9de4707c1bd67b619c87260a963b7bad65e67875/img/3.png" style="width: 50%;">
 
